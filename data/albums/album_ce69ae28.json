@@ -1,0 +1,30 @@
+{
+  "id": "album_ce69ae28",
+  "title": "舌尖上的中国 原声带",
+  "artistIds": [
+    "artist_763924c5"
+  ],
+  "songIds": [
+    "song_188f0b58",
+    "song_52617b07",
+    "song_11bd661a",
+    "song_5eb08623",
+    "song_6a6ac4ad",
+    "song_da037c27",
+    "song_cdc5a3b2",
+    "song_83884e15",
+    "song_6247f0a9",
+    "song_4d39f845",
+    "song_b8cc71e4",
+    "song_f86d91ac",
+    "song_3d6ce0ae",
+    "song_8ee4f9c6",
+    "song_5effaf7b",
+    "song_92f12919",
+    "song_ab253e41",
+    "song_d327ea51",
+    "song_1ef2b77c"
+  ],
+  "releaseDate": "2012",
+  "type": "纪录片原声"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "album_72aeb69e",
+  "title": "红蔷薇 电视原声",
+  "artistIds": [
+    "artist_763924c5"
+  ],
+  "songIds": [
+    "song_514509ce",
+    "song_cdb3ffb3"
+  ],
+  "releaseDate": "2018",
+  "type": "电视原声"
+}

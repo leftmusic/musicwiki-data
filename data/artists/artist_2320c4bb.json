@@ -1,0 +1,14 @@
+{
+  "id": "artist_2320c4bb",
+  "name": "张学友",
+  "songIds": [
+    "song_5308e1b4",
+    "song_056d5d5a",
+    "song_4c49ee6e"
+  ],
+  "albumIds": [],
+  "birthDate": "1961-07-10",
+  "genres": [
+    "流行"
+  ]
+}

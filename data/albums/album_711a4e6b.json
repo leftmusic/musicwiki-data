@@ -1,0 +1,15 @@
+{
+  "id": "album_711a4e6b",
+  "title": "Alone",
+  "artistIds": [
+    "artist_43f076fb"
+  ],
+  "songIds": [
+    "song_42090fcb",
+    "song_304c5981",
+    "song_058aff3d",
+    "song_28e7cfd5"
+  ],
+  "releaseDate": "2016-02",
+  "type": "专辑"
+}

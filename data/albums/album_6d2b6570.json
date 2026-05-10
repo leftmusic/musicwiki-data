@@ -1,0 +1,22 @@
+{
+  "id": "album_6d2b6570",
+  "title": "因你而在",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_bdabb06d",
+    "song_580f6021",
+    "song_4e4d84e9",
+    "song_81f7bae3",
+    "song_69923abb",
+    "song_c3632396",
+    "song_0e32237a",
+    "song_c2fca1dd",
+    "song_a52690f6",
+    "song_c1f048ff",
+    "song_5bacd1f6"
+  ],
+  "releaseDate": "2013-03-13",
+  "type": "录音室专辑"
+}

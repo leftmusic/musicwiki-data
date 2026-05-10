@@ -1,0 +1,15 @@
+{
+  "id": "album_57486ca3",
+  "title": "E",
+  "artistIds": [
+    "artist_43f076fb"
+  ],
+  "songIds": [
+    "song_e905e796",
+    "song_fbc16d59",
+    "song_572b1cda",
+    "song_13d08871"
+  ],
+  "releaseDate": "2015-09",
+  "type": "专辑"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "album_c903ab17",
+  "title": "西界",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_ce59eec2",
+    "song_a836a565",
+    "song_40294291",
+    "song_459c274b",
+    "song_1a178b01",
+    "song_5251852c",
+    "song_43a10243",
+    "song_ec1089b8",
+    "song_64d0c01e",
+    "song_51ee0a67",
+    "song_319296a2",
+    "song_0d85ebd5",
+    "song_7425a64f"
+  ],
+  "releaseDate": "2007-06-29",
+  "type": "录音室专辑"
+}

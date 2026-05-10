@@ -1,0 +1,15 @@
+{
+  "id": "album_3c46684a",
+  "title": "舌尖上的中国2 原声带",
+  "artistIds": [
+    "artist_763924c5"
+  ],
+  "songIds": [
+    "song_7879eee5",
+    "song_df7bff90",
+    "song_a0948164",
+    "song_922903a9"
+  ],
+  "releaseDate": "2014",
+  "type": "纪录片原声"
+}

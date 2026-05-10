@@ -1,0 +1,12 @@
+{
+  "id": "album_2cdeeba1",
+  "title": "12.25",
+  "artistIds": [
+    "artist_43f076fb"
+  ],
+  "songIds": [
+    "song_047a872a"
+  ],
+  "releaseDate": "2016",
+  "type": "单曲"
+}

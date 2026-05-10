@@ -1,0 +1,21 @@
+{
+  "id": "album_8b8b8331",
+  "title": "依然范特西",
+  "artistIds": [
+    "artist_a720e242"
+  ],
+  "songIds": [
+    "song_a25991d2",
+    "song_18a13146",
+    "song_83ebbe82",
+    "song_6ac01295",
+    "song_09578f9e",
+    "song_7599060e",
+    "song_4f979fd9",
+    "song_680e9892",
+    "song_334c8655",
+    "song_e42cd726"
+  ],
+  "releaseDate": "2006-09-05",
+  "type": "录音室专辑"
+}

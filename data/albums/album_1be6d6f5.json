@@ -1,0 +1,12 @@
+{
+  "id": "album_1be6d6f5",
+  "title": "一句肯定足够我去勇敢",
+  "artistIds": [
+    "artist_65ed4327"
+  ],
+  "songIds": [
+    "song_70efc10b"
+  ],
+  "releaseDate": "2025",
+  "type": "单曲"
+}

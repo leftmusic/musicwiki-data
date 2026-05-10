@@ -1,0 +1,21 @@
+{
+  "id": "album_0ae204c7",
+  "title": "舍不得你走",
+  "artistIds": [
+    "artist_b9c38e3e"
+  ],
+  "songIds": [
+    "song_7e4a0226",
+    "song_49e48863",
+    "song_00d03d24",
+    "song_75358aef",
+    "song_6f8b44f8",
+    "song_dda3dde8",
+    "song_3f3cfed2",
+    "song_68bf1c33",
+    "song_49ef04a2",
+    "song_50488d72"
+  ],
+  "releaseDate": "1991-08",
+  "type": "录音室专辑"
+}

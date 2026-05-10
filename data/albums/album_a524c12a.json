@@ -1,0 +1,12 @@
+{
+  "id": "album_a524c12a",
+  "title": "一步步",
+  "artistIds": [
+    "artist_65ed4327"
+  ],
+  "songIds": [
+    "song_0911a5cf"
+  ],
+  "releaseDate": "2022",
+  "type": "单曲"
+}

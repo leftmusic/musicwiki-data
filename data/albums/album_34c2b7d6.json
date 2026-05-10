@@ -1,0 +1,21 @@
+{
+  "id": "album_34c2b7d6",
+  "title": "范特西",
+  "artistIds": [
+    "artist_a720e242"
+  ],
+  "songIds": [
+    "song_cebe1d78",
+    "song_563b2646",
+    "song_436987dc",
+    "song_fa7847b9",
+    "song_909596f0",
+    "song_69c2e40e",
+    "song_e29f5eb0",
+    "song_24017ae0",
+    "song_d087cacb",
+    "song_42b0eb02"
+  ],
+  "releaseDate": "2001-09-14",
+  "type": "录音室专辑"
+}

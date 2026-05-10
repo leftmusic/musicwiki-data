@@ -1,0 +1,19 @@
+{
+  "id": "artist_bfc91b34",
+  "name": "YOASOBI",
+  "songIds": [
+    "song_00c9ff02",
+    "song_73203747",
+    "song_0b369403",
+    "song_7f75a771",
+    "song_86fd4bcb",
+    "song_0ef9e8c5",
+    "song_6354ba20"
+  ],
+  "albumIds": [],
+  "birthDate": "2019",
+  "genres": [
+    "流行",
+    "电子"
+  ]
+}

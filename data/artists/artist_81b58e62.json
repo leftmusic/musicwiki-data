@@ -1,0 +1,16 @@
+{
+  "id": "artist_81b58e62",
+  "name": "Aimer",
+  "songIds": [
+    "song_6d843419",
+    "song_70c4feeb",
+    "song_01cce0b6",
+    "song_90c0e108"
+  ],
+  "albumIds": [],
+  "birthDate": "1990-12-05",
+  "genres": [
+    "流行",
+    "动漫"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "album_eb90f119",
+  "title": "念",
+  "artistIds": [
+    "artist_43f076fb"
+  ],
+  "songIds": [
+    "song_2dfd9d4a",
+    "song_b41fe092",
+    "song_6a6d5eab",
+    "song_2b813825"
+  ],
+  "releaseDate": "2020-12",
+  "type": "专辑"
+}

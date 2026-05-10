@@ -1,0 +1,14 @@
+{
+  "id": "artist_ecbd6c96",
+  "name": "The Beatles",
+  "songIds": [
+    "song_76d34825",
+    "song_ee6554bd",
+    "song_e05a22c0"
+  ],
+  "albumIds": [],
+  "birthDate": "1960",
+  "genres": [
+    "摇滚"
+  ]
+}

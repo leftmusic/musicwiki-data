@@ -1,0 +1,12 @@
+{
+  "id": "album_d72f2e00",
+  "title": "我是",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_85363fa1"
+  ],
+  "releaseDate": "2023",
+  "type": "单曲"
+}

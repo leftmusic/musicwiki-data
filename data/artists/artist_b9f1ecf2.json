@@ -1,0 +1,15 @@
+{
+  "id": "artist_b9f1ecf2",
+  "name": "Justin Bieber",
+  "songIds": [
+    "song_caef0e66",
+    "song_4352b4b2",
+    "song_24fea7f2"
+  ],
+  "albumIds": [],
+  "birthDate": "1994-03-01",
+  "genres": [
+    "流行",
+    "R&B"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "song_1e1d8f8a",
+  "title": "黑色幽默",
+  "artistIds": [
+    "artist_a720e242"
+  ],
+  "albumId": "album_b6416702",
+  "releaseDate": "2000",
+  "genres": [
+    "流行",
+    "R&B"
+  ],
+  "lyrics": ""
+}

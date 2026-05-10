@@ -1,0 +1,14 @@
+{
+  "id": "album_d685a55b",
+  "title": "Five",
+  "artistIds": [
+    "artist_43f076fb"
+  ],
+  "songIds": [
+    "song_16b1c975",
+    "song_f24af3dd",
+    "song_b8c9e2cb"
+  ],
+  "releaseDate": "2018-06",
+  "type": "专辑"
+}

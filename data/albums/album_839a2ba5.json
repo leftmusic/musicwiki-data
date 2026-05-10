@@ -1,0 +1,14 @@
+{
+  "id": "album_839a2ba5",
+  "title": "JUMP",
+  "artistIds": [
+    "artist_43f076fb"
+  ],
+  "songIds": [
+    "song_668bedce",
+    "song_aa58660a",
+    "song_89cce3c3"
+  ],
+  "releaseDate": "2015-09",
+  "type": "专辑"
+}

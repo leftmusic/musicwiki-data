@@ -1,0 +1,23 @@
+{
+  "id": "album_30317453",
+  "title": "12新作",
+  "artistIds": [
+    "artist_a720e242"
+  ],
+  "songIds": [
+    "song_df0d208e",
+    "song_2bfdeb5a",
+    "song_70d2a251",
+    "song_e25f9206",
+    "song_6369d71c",
+    "song_29e54ef3",
+    "song_52c042f7",
+    "song_f8504304",
+    "song_49a867e7",
+    "song_5aa711c5",
+    "song_a518d969",
+    "song_42b120b7"
+  ],
+  "releaseDate": "2012-12-28",
+  "type": "录音室专辑"
+}

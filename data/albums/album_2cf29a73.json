@@ -1,0 +1,20 @@
+{
+  "id": "album_2cf29a73",
+  "title": "小刚的花花世界",
+  "artistIds": [
+    "artist_b9c38e3e"
+  ],
+  "songIds": [
+    "song_8cb529ab",
+    "song_645c2886",
+    "song_7e2105ba",
+    "song_5fecddb9",
+    "song_01d80bd4",
+    "song_04ce9a25",
+    "song_090fac7b",
+    "song_0e2eed82",
+    "song_5c17ea2f"
+  ],
+  "releaseDate": "1992-02",
+  "type": "录音室专辑"
+}

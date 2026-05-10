@@ -1,0 +1,20 @@
+{
+  "id": "album_0277bc49",
+  "title": "男人海洋",
+  "artistIds": [
+    "artist_b9c38e3e"
+  ],
+  "songIds": [
+    "song_4931018e",
+    "song_1bb91172",
+    "song_3aafe17a",
+    "song_4b4dd870",
+    "song_b10e5030",
+    "song_2d4cce3c",
+    "song_9afe23aa",
+    "song_392b149c",
+    "song_eceb6d5d"
+  ],
+  "releaseDate": "2004-11",
+  "type": "录音室专辑"
+}

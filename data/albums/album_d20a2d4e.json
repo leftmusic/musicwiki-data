@@ -1,0 +1,21 @@
+{
+  "id": "album_d20a2d4e",
+  "title": "星空下的传说",
+  "artistIds": [
+    "artist_b9c38e3e"
+  ],
+  "songIds": [
+    "song_89f34552",
+    "song_40b53a46",
+    "song_29f4d422",
+    "song_742a2b78",
+    "song_b93770f9",
+    "song_c681e1a9",
+    "song_b9e52f0c",
+    "song_355dee5e",
+    "song_0f663fd6",
+    "song_0a4e321a"
+  ],
+  "releaseDate": "2005-06",
+  "type": "录音室专辑"
+}

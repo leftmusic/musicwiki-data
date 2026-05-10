@@ -1,0 +1,15 @@
+{
+  "id": "artist_858d5c49",
+  "name": "Madonna",
+  "songIds": [
+    "song_954ce949",
+    "song_7800bdd9",
+    "song_bea32759"
+  ],
+  "albumIds": [],
+  "birthDate": "1958-08-16",
+  "genres": [
+    "流行",
+    "舞曲"
+  ]
+}

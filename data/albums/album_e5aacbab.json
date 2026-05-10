@@ -1,0 +1,12 @@
+{
+  "id": "album_e5aacbab",
+  "title": "小瓶子",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_47919480"
+  ],
+  "releaseDate": "2021",
+  "type": "单曲"
+}

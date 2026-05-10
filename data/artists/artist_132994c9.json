@@ -1,0 +1,23 @@
+{
+  "id": "artist_132994c9",
+  "name": "陈奕迅",
+  "songIds": [
+    "song_a3eb218e",
+    "song_9c2beb49",
+    "song_f6acdc3b",
+    "song_9ad2c860",
+    "song_9f6dec9c"
+  ],
+  "albumIds": [
+    "album_51e409f3",
+    "album_bc28e015",
+    "album_343c83c1",
+    "album_e9df9b68",
+    "album_4fb71d76"
+  ],
+  "birthDate": "1974-07-27",
+  "genres": [
+    "流行",
+    "粤语流行"
+  ]
+}

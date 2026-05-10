@@ -1,0 +1,14 @@
+{
+  "id": "artist_6392b4e9",
+  "name": "Post Malone",
+  "songIds": [
+    "song_98b260cf",
+    "song_72d4373c"
+  ],
+  "albumIds": [],
+  "birthDate": "1995-07-04",
+  "genres": [
+    "流行",
+    "嘻哈"
+  ]
+}

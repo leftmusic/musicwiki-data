@@ -1,0 +1,25 @@
+{
+  "id": "album_3dce375c",
+  "title": "JJ陆",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_ee98b755",
+    "song_45a0b082",
+    "song_34ba7df3",
+    "song_057f1178",
+    "song_2e95638e",
+    "song_0e62f459",
+    "song_aba3516f",
+    "song_86399714",
+    "song_e7352c29",
+    "song_024819ee",
+    "song_feb4eec4",
+    "song_cb592348",
+    "song_d9fb0302",
+    "song_7e0ef4fc"
+  ],
+  "releaseDate": "2008-10-18",
+  "type": "录音室专辑"
+}

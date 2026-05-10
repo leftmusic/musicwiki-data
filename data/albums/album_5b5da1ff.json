@@ -1,0 +1,14 @@
+{
+  "id": "album_5b5da1ff",
+  "title": "飞驰人生2 电影原声大碟",
+  "artistIds": [
+    "artist_763924c5"
+  ],
+  "songIds": [
+    "song_52fae786",
+    "song_c1f50ddd",
+    "song_5c88a065"
+  ],
+  "releaseDate": "2024",
+  "type": "电影原声"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "album_228062e2",
+  "title": "靠近",
+  "artistIds": [
+    "artist_43f076fb"
+  ],
+  "songIds": [
+    "song_d471eedb",
+    "song_e13049df",
+    "song_6b00b6db",
+    "song_81cedb54"
+  ],
+  "releaseDate": "2020-04",
+  "type": "专辑"
+}

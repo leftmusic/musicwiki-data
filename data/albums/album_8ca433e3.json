@@ -1,0 +1,22 @@
+{
+  "id": "album_8ca433e3",
+  "title": "双子星的对话",
+  "artistIds": [
+    "artist_b9c38e3e"
+  ],
+  "songIds": [
+    "song_e8a45c7e",
+    "song_505bb33f",
+    "song_001abccb",
+    "song_333d30b9",
+    "song_a422253f",
+    "song_488c57f2",
+    "song_c4b4328c",
+    "song_1d48eeab",
+    "song_d18b982c",
+    "song_8d11d754",
+    "song_65cf8c77"
+  ],
+  "releaseDate": "1990-04",
+  "type": "录音室专辑"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "artist_8ff22c3c",
+  "name": "Whitney Houston",
+  "songIds": [
+    "song_2f88270b",
+    "song_f924f123",
+    "song_aed0e3e3"
+  ],
+  "albumIds": [],
+  "birthDate": "1963-08-09",
+  "genres": [
+    "流行",
+    "R&B"
+  ]
+}

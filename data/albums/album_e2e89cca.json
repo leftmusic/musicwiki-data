@@ -1,0 +1,8 @@
+{
+  "id": "album_e2e89cca",
+  "title": "唱游",
+  "artistIds": ["artist_d62c1a82"],
+  "songIds": ["song_0038bc80"],
+  "releaseDate": "1998-10-01",
+  "type": "录音室专辑"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "artist_f577a65a",
+  "name": "Adele",
+  "songIds": [
+    "song_054e9bac",
+    "song_4def5571",
+    "song_ec6abc3c",
+    "song_d3173baf"
+  ],
+  "albumIds": [],
+  "birthDate": "1988-05-05",
+  "genres": [
+    "流行",
+    "灵魂乐"
+  ]
+}

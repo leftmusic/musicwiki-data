@@ -1,0 +1,21 @@
+{
+  "id": "album_e0328afa",
+  "title": "念念不忘",
+  "artistIds": [
+    "artist_b9c38e3e"
+  ],
+  "songIds": [
+    "song_584157f6",
+    "song_1946f679",
+    "song_2d6d59e4",
+    "song_82f89c7a",
+    "song_3a080f0f",
+    "song_2f963b7d",
+    "song_dbba6528",
+    "song_5da9a029",
+    "song_351b32f2",
+    "song_7e0bb7e3"
+  ],
+  "releaseDate": "2022-09",
+  "type": "录音室专辑"
+}

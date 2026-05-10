@@ -1,0 +1,8 @@
+{
+  "id": "album_0216cc41",
+  "title": "平凡的一天",
+  "artistIds": ["artist_3cc51b8b"],
+  "songIds": ["song_dbeaf461", "song_76a5c238"],
+  "releaseDate": "2017-07-29",
+  "type": "录音室专辑"
+}

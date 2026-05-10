@@ -1,0 +1,13 @@
+{
+  "id": "album_aa6a236b",
+  "title": "绅士",
+  "artistIds": [
+    "artist_f435f48b"
+  ],
+  "songIds": [
+    "song_9789b69c",
+    "song_0f030389"
+  ],
+  "releaseDate": "2015-06-05",
+  "type": "录音室专辑"
+}

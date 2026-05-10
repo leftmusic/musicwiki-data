@@ -1,0 +1,13 @@
+{
+  "id": "artist_18c089ec",
+  "name": "Beyoncé",
+  "songIds": [
+    "song_022aae00"
+  ],
+  "albumIds": [],
+  "birthDate": "1981-09-04",
+  "genres": [
+    "流行",
+    "R&B"
+  ]
+}

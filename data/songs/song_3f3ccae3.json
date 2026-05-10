@@ -1,0 +1,14 @@
+{
+  "id": "song_3f3ccae3",
+  "title": "青花瓷",
+  "artistIds": [
+    "artist_1520afdf",
+    "artist_a720e242"
+  ],
+  "albumId": "album_c5637f5d",
+  "releaseDate": "2007-11-02",
+  "genres": [
+    "中国风"
+  ],
+  "lyrics": ""
+}

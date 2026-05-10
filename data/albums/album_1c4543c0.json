@@ -1,0 +1,12 @@
+{
+  "id": "album_1c4543c0",
+  "title": "731 电影原声",
+  "artistIds": [
+    "artist_763924c5"
+  ],
+  "songIds": [
+    "song_6eaf4cd4"
+  ],
+  "releaseDate": "2025",
+  "type": "电影原声"
+}

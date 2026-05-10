@@ -1,0 +1,24 @@
+{
+  "id": "album_cfbe6f60",
+  "title": "她说 概念自选辑",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_281b7283",
+    "song_a39e70b2",
+    "song_e6dc6714",
+    "song_3a63dcdf",
+    "song_20e38a77",
+    "song_109416fe",
+    "song_16dacb1f",
+    "song_f7495e02",
+    "song_204e0b02",
+    "song_1f45f14b",
+    "song_321fea7b",
+    "song_efd5c309",
+    "song_f3a3e0de"
+  ],
+  "releaseDate": "2010-12-08",
+  "type": "概念专辑"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "artist_d4fea864",
+  "name": "Katy Perry",
+  "songIds": [
+    "song_342a1231",
+    "song_05131aaf",
+    "song_202c2526",
+    "song_d4559f19"
+  ],
+  "albumIds": [],
+  "birthDate": "1984-10-25",
+  "genres": [
+    "流行"
+  ]
+}

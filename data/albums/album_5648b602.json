@@ -1,0 +1,23 @@
+{
+  "id": "album_5648b602",
+  "title": "哎呦，不错哦",
+  "artistIds": [
+    "artist_a720e242"
+  ],
+  "songIds": [
+    "song_85318597",
+    "song_22956e4d",
+    "song_7943b1cb",
+    "song_9ab92f18",
+    "song_9558a96a",
+    "song_14898946",
+    "song_600f66eb",
+    "song_b9564419",
+    "song_6a06ec96",
+    "song_1aef6b44",
+    "song_265beb52",
+    "song_9db1e2a2"
+  ],
+  "releaseDate": "2014-12-26",
+  "type": "录音室专辑"
+}

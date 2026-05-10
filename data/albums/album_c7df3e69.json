@@ -1,0 +1,21 @@
+{
+  "id": "album_c7df3e69",
+  "title": "陪着我一直到世界的尽头",
+  "artistIds": [
+    "artist_b9c38e3e"
+  ],
+  "songIds": [
+    "song_ad1f7306",
+    "song_a1f0ee02",
+    "song_35191bde",
+    "song_4eea93a6",
+    "song_130f20c7",
+    "song_58616196",
+    "song_b26a8f14",
+    "song_d52fbdc1",
+    "song_296ddc84",
+    "song_3e6d966f"
+  ],
+  "releaseDate": "1993-03",
+  "type": "录音室专辑"
+}

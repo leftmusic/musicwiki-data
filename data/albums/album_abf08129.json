@@ -1,0 +1,19 @@
+{
+  "id": "album_abf08129",
+  "title": "发觉",
+  "artistIds": [
+    "artist_b9c38e3e"
+  ],
+  "songIds": [
+    "song_2277b771",
+    "song_5c09dc29",
+    "song_1b3330b3",
+    "song_2b249bdd",
+    "song_b8389a19",
+    "song_3f90cb23",
+    "song_6f78baa3",
+    "song_33d91b25"
+  ],
+  "releaseDate": "1994-03",
+  "type": "录音室专辑"
+}

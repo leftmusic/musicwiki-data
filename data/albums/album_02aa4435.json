@@ -1,0 +1,20 @@
+{
+  "id": "album_02aa4435",
+  "title": "最伟大的作品",
+  "artistIds": [
+    "artist_a720e242"
+  ],
+  "songIds": [
+    "song_b16674bd",
+    "song_d8f21378",
+    "song_30c04ecd",
+    "song_70796deb",
+    "song_9b0a2944",
+    "song_0fa46457",
+    "song_365f7d12",
+    "song_8bf64b55",
+    "song_ec97b184"
+  ],
+  "releaseDate": "2022-07-15",
+  "type": "录音室专辑"
+}

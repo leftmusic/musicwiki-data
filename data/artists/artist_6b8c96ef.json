@@ -1,0 +1,16 @@
+{
+  "id": "artist_6b8c96ef",
+  "name": "初音未来",
+  "songIds": [
+    "song_9b38427a",
+    "song_3211f336",
+    "song_e0f563b9"
+  ],
+  "albumIds": [],
+  "birthDate": "2007-08-31",
+  "genres": [
+    "虚拟歌手",
+    "电子",
+    "VOCALOID"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "album_b6416702",
+  "title": "Jay",
+  "artistIds": [
+    "artist_a720e242"
+  ],
+  "songIds": [
+    "song_7250b166",
+    "song_3f90da3f",
+    "song_e7c831bb",
+    "song_5c7fe319",
+    "song_538204ab",
+    "song_1e1d8f8a",
+    "song_09d05a86",
+    "song_4c24e55a",
+    "song_98bbdc1f",
+    "song_0f624216"
+  ],
+  "releaseDate": "2000-11-07",
+  "type": "录音室专辑"
+}

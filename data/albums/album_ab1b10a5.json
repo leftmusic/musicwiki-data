@@ -1,0 +1,22 @@
+{
+  "id": "album_ab1b10a5",
+  "title": "跨时代",
+  "artistIds": [
+    "artist_a720e242"
+  ],
+  "songIds": [
+    "song_e8fa3465",
+    "song_2d22a8c8",
+    "song_820fd4b5",
+    "song_06d0ba89",
+    "song_5fa54ea5",
+    "song_bc4d0e57",
+    "song_ffe0dc3b",
+    "song_5f1d45ea",
+    "song_071e4361",
+    "song_aca7c59f",
+    "song_fd73afdb"
+  ],
+  "releaseDate": "2010-05-18",
+  "type": "录音室专辑"
+}

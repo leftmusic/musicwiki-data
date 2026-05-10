@@ -1,0 +1,21 @@
+{
+  "id": "album_0e9aeef7",
+  "title": "终于学会",
+  "artistIds": [
+    "artist_b9c38e3e"
+  ],
+  "songIds": [
+    "song_d31de6ca",
+    "song_22d7db84",
+    "song_760b0ef0",
+    "song_72d8c626",
+    "song_b9cdc24c",
+    "song_329f54b5",
+    "song_5909b17f",
+    "song_3ff20044",
+    "song_5dec936e",
+    "song_aec07cda"
+  ],
+  "releaseDate": "1990-12",
+  "type": "录音室专辑"
+}

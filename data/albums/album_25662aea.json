@@ -1,0 +1,22 @@
+{
+  "id": "album_25662aea",
+  "title": "叶惠美",
+  "artistIds": [
+    "artist_a720e242"
+  ],
+  "songIds": [
+    "song_237d5a1c",
+    "song_82ea3851",
+    "song_f6f88924",
+    "song_d20b3699",
+    "song_eacf2b83",
+    "song_0320be4c",
+    "song_fb29bd5a",
+    "song_ae2f802d",
+    "song_3a32ea45",
+    "song_b32404ae",
+    "song_ad71cf70"
+  ],
+  "releaseDate": "2003-07-31",
+  "type": "录音室专辑"
+}

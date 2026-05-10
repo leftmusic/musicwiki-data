@@ -1,0 +1,26 @@
+{
+  "id": "album_3cb0b112",
+  "title": "重溯",
+  "artistIds": [
+    "artist_43f076fb"
+  ],
+  "songIds": [
+    "song_3dade453",
+    "song_29c8eb36",
+    "song_75c223e7",
+    "song_9e75fc0e",
+    "song_e10ba5a1",
+    "song_7dd87a04",
+    "song_cc67d291",
+    "song_d89314f5",
+    "song_14f67006",
+    "song_79dd538a",
+    "song_dc4f4f50",
+    "song_110de851",
+    "song_18084d68",
+    "song_2b40a0f6",
+    "song_8cc7ebad"
+  ],
+  "releaseDate": "2025-03",
+  "type": "专辑"
+}

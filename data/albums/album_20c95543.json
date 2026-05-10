@@ -1,0 +1,12 @@
+{
+  "id": "album_20c95543",
+  "title": "Water",
+  "artistIds": [
+    "artist_43f076fb"
+  ],
+  "songIds": [
+    "song_a37d3ecc"
+  ],
+  "releaseDate": "2016",
+  "type": "单曲"
+}

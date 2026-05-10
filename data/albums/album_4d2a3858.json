@@ -1,0 +1,8 @@
+{
+  "id": "album_4d2a3858",
+  "title": "另一个童话",
+  "artistIds": ["artist_0dc784cb"],
+  "songIds": ["song_27ad241d"],
+  "releaseDate": "2016-12-30",
+  "type": "EP"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "album_799eb2b9",
+  "title": "熊出没原始时代 电影原声",
+  "artistIds": [
+    "artist_763924c5"
+  ],
+  "songIds": [
+    "song_3aed0957",
+    "song_4c3fbe35",
+    "song_7861b72f"
+  ],
+  "releaseDate": "2019",
+  "type": "电影原声"
+}

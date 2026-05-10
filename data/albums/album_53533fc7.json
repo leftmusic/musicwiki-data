@@ -1,0 +1,20 @@
+{
+  "id": "album_53533fc7",
+  "title": "Transfer",
+  "artistIds": [
+    "artist_b9c38e3e"
+  ],
+  "songIds": [
+    "song_69e2efba",
+    "song_90588129",
+    "song_7d18b124",
+    "song_70690130",
+    "song_7f5dd38d",
+    "song_8963fe2e",
+    "song_f1a7db99",
+    "song_58206ba9",
+    "song_d879d3ca"
+  ],
+  "releaseDate": "2000-12",
+  "type": "录音室专辑"
+}

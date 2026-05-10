@@ -1,0 +1,21 @@
+{
+  "id": "album_c5637f5d",
+  "title": "我很忙",
+  "artistIds": [
+    "artist_a720e242"
+  ],
+  "songIds": [
+    "song_3f3ccae3",
+    "song_0c760697",
+    "song_023a2a66",
+    "song_e3d986d6",
+    "song_88d0e52f",
+    "song_a5b0e4f7",
+    "song_fd41a165",
+    "song_1db89e0d",
+    "song_cd990fec",
+    "song_128a477b"
+  ],
+  "releaseDate": "2007-11-02",
+  "type": "录音室专辑"
+}

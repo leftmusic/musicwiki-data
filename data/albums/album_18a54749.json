@@ -1,0 +1,17 @@
+{
+  "id": "album_18a54749",
+  "title": "华胥引 电视原声",
+  "artistIds": [
+    "artist_763924c5"
+  ],
+  "songIds": [
+    "song_bd43f5b6",
+    "song_e524b181",
+    "song_36d0015b",
+    "song_6b166044",
+    "song_23b0ce8e",
+    "song_7ac4007d"
+  ],
+  "releaseDate": "2015",
+  "type": "电视原声"
+}

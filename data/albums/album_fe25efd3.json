@@ -1,0 +1,12 @@
+{
+  "id": "album_fe25efd3",
+  "title": "巡光",
+  "artistIds": [
+    "artist_65ed4327"
+  ],
+  "songIds": [
+    "song_c75820aa"
+  ],
+  "releaseDate": "2024",
+  "type": "单曲"
+}

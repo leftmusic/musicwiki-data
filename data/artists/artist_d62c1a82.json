@@ -1,0 +1,15 @@
+{
+  "id": "artist_d62c1a82",
+  "name": "王菲",
+  "songIds": [
+    "song_1e792a7d",
+    "song_7ac402d9",
+    "song_f3b56df5",
+    "song_eab633ff"
+  ],
+  "albumIds": [],
+  "birthDate": "1969-08-08",
+  "genres": [
+    "流行"
+  ]
+}

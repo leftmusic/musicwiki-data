@@ -1,0 +1,21 @@
+{
+  "id": "album_8aa4408c",
+  "title": "新地球",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_462759d0",
+    "song_1b24b1ea",
+    "song_9aaaba08",
+    "song_de472ea3",
+    "song_a0b4e151",
+    "song_3f76661d",
+    "song_ed69751a",
+    "song_1233c655",
+    "song_34bfc3a9",
+    "song_f1c4d523"
+  ],
+  "releaseDate": "2014-12-27",
+  "type": "录音室专辑"
+}

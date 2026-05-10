@@ -1,0 +1,24 @@
+{
+  "id": "album_3fc7ed69",
+  "title": "编号89757",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_e78ef048",
+    "song_37f019ff",
+    "song_52bfce1f",
+    "song_2db0d826",
+    "song_2ace9422",
+    "song_92cc7359",
+    "song_5a965ac9",
+    "song_f997a94c",
+    "song_af91f197",
+    "song_6fb964eb",
+    "song_84bd157f",
+    "song_ada3bfca",
+    "song_221dc70b"
+  ],
+  "releaseDate": "2005-04-01",
+  "type": "录音室专辑"
+}

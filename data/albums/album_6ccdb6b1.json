@@ -1,0 +1,13 @@
+{
+  "id": "album_6ccdb6b1",
+  "title": "Dubbing",
+  "artistIds": [
+    "artist_b9c38e3e"
+  ],
+  "songIds": [
+    "song_edb1b088",
+    "song_534de1d6"
+  ],
+  "releaseDate": "2003-10",
+  "type": "录音室专辑"
+}

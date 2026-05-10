@@ -1,0 +1,19 @@
+{
+  "id": "album_f6f24151",
+  "title": "二分之一的爱情",
+  "artistIds": [
+    "artist_b9c38e3e"
+  ],
+  "songIds": [
+    "song_cf51fe9c",
+    "song_7c94b1e4",
+    "song_951860a2",
+    "song_cf4e0e46",
+    "song_651759ea",
+    "song_62d483ed",
+    "song_ad59ff0e",
+    "song_6386d8ec"
+  ],
+  "releaseDate": "1995-04",
+  "type": "录音室专辑"
+}

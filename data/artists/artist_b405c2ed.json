@@ -1,0 +1,15 @@
+{
+  "id": "artist_b405c2ed",
+  "name": "Eminem",
+  "songIds": [
+    "song_48200e2a",
+    "song_0db1915a",
+    "song_9603e413",
+    "song_dd0d80c9"
+  ],
+  "albumIds": [],
+  "birthDate": "1972-10-17",
+  "genres": [
+    "嘻哈"
+  ]
+}

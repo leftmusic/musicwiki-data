@@ -1,0 +1,17 @@
+{
+  "id": "album_54565df8",
+  "title": "蓝色土耳其",
+  "artistIds": [
+    "artist_b9c38e3e"
+  ],
+  "songIds": [
+    "song_882a8ba9",
+    "song_f8639cef",
+    "song_e0735cd1",
+    "song_e9a8e4f1",
+    "song_3673de07",
+    "song_c1127572"
+  ],
+  "releaseDate": "2007-05",
+  "type": "录音室专辑"
+}

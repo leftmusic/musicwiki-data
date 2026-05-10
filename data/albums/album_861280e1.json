@@ -1,0 +1,16 @@
+{
+  "id": "album_861280e1",
+  "title": "徐梦圆",
+  "artistIds": [
+    "artist_43f076fb"
+  ],
+  "songIds": [
+    "song_c69a2234",
+    "song_b6abfd86",
+    "song_d3bfdf3a",
+    "song_478e4da2",
+    "song_b9ea9d25"
+  ],
+  "releaseDate": "2018-03",
+  "type": "专辑"
+}

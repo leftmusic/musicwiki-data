@@ -1,0 +1,16 @@
+{
+  "id": "artist_b8eff659",
+  "name": "Lady Gaga",
+  "songIds": [
+    "song_8a32bb4e",
+    "song_7179eb3b",
+    "song_3a4ac0dd",
+    "song_8825d777",
+    "song_47de17c0"
+  ],
+  "albumIds": [],
+  "birthDate": "1986-03-28",
+  "genres": [
+    "流行"
+  ]
+}

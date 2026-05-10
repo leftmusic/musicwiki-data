@@ -1,0 +1,19 @@
+{
+  "id": "artist_8099e2d2",
+  "name": "Ado",
+  "songIds": [
+    "song_51cb5f20",
+    "song_61900a70",
+    "song_04d2862e",
+    "song_b5d08752",
+    "song_d1214ad9",
+    "song_b49a394a",
+    "song_ec643f85",
+    "song_832dfaf8"
+  ],
+  "albumIds": [],
+  "birthDate": "2002-10-24",
+  "genres": [
+    "流行"
+  ]
+}

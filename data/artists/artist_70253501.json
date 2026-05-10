@@ -1,0 +1,13 @@
+{
+  "id": "artist_70253501",
+  "name": "John Lennon",
+  "songIds": [
+    "song_f972d8e6"
+  ],
+  "albumIds": [],
+  "birthDate": "1940-10-09",
+  "genres": [
+    "摇滚",
+    "流行"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "album_47907e44",
+  "title": "对的时间点",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_382d4bdd",
+    "song_0bf95442",
+    "song_e57e6ff6"
+  ],
+  "releaseDate": "2019-08-26",
+  "type": "EP"
+}

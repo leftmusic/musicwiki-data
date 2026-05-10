@@ -1,0 +1,18 @@
+{
+  "id": "album_d7c3a9ad",
+  "title": "伟大的渺小",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_d0959d47",
+    "song_3951defa",
+    "song_b1b86732",
+    "song_24214d34",
+    "song_799013ea",
+    "song_2c4b7f7f",
+    "song_3eba38cb"
+  ],
+  "releaseDate": "2017-12-29",
+  "type": "录音室专辑"
+}

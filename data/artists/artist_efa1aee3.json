@@ -1,0 +1,14 @@
+{
+  "id": "artist_efa1aee3",
+  "name": "苏打绿",
+  "songIds": [
+    "song_edbc25c4",
+    "song_9bd24a33"
+  ],
+  "albumIds": [],
+  "birthDate": "2001",
+  "genres": [
+    "流行",
+    "独立"
+  ]
+}

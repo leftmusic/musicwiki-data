@@ -1,0 +1,15 @@
+{
+  "id": "artist_ce7e6a6e",
+  "name": "The Weeknd",
+  "songIds": [
+    "song_104afc7f",
+    "song_fa34520f",
+    "song_c494e956"
+  ],
+  "albumIds": [],
+  "birthDate": "1990-02-16",
+  "genres": [
+    "流行",
+    "R&B"
+  ]
+}

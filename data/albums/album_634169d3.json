@@ -1,0 +1,25 @@
+{
+  "id": "album_634169d3",
+  "title": "第二天堂",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_0f884209",
+    "song_77b4522b",
+    "song_2e46830e",
+    "song_063d5b29",
+    "song_9df7cd16",
+    "song_4a10dfa8",
+    "song_1f54586f",
+    "song_469674df",
+    "song_07af8043",
+    "song_52d812d6",
+    "song_b6c7377d",
+    "song_009a220d",
+    "song_283e5f6d",
+    "song_49783762"
+  ],
+  "releaseDate": "2004-06-04",
+  "type": "录音室专辑"
+}

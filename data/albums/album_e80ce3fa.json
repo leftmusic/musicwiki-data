@@ -1,0 +1,20 @@
+{
+  "id": "album_e80ce3fa",
+  "title": "恋人创世纪",
+  "artistIds": [
+    "artist_b9c38e3e"
+  ],
+  "songIds": [
+    "song_5766518c",
+    "song_4edf3910",
+    "song_044e371d",
+    "song_1fcaf2df",
+    "song_cea883f5",
+    "song_f8445bbb",
+    "song_0d435d9e",
+    "song_7901a2b7",
+    "song_66b107cf"
+  ],
+  "releaseDate": "2009-09",
+  "type": "录音室专辑"
+}

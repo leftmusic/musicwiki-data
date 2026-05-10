@@ -1,0 +1,25 @@
+{
+  "id": "album_37b3cdeb",
+  "title": "学不会",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_f1169618",
+    "song_427196e8",
+    "song_1f7de64d",
+    "song_a8e733ea",
+    "song_47f4e4dc",
+    "song_3a1a3736",
+    "song_a839fe46",
+    "song_aa053d7a",
+    "song_0479bcb8",
+    "song_339430af",
+    "song_e1f87cea",
+    "song_248014af",
+    "song_713e57a1",
+    "song_5db03aff"
+  ],
+  "releaseDate": "2011-12-31",
+  "type": "录音室专辑"
+}

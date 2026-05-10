@@ -1,0 +1,18 @@
+{
+  "id": "artist_03ea89f5",
+  "name": "Bruno Mars",
+  "songIds": [
+    "song_7cbed1a9",
+    "song_68bb0dc6",
+    "song_449714b6",
+    "song_47de17c0",
+    "song_26a745a6"
+  ],
+  "albumIds": [],
+  "birthDate": "1985-10-08",
+  "genres": [
+    "流行",
+    "放克",
+    "R&B"
+  ]
+}

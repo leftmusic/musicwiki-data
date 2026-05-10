@@ -1,0 +1,21 @@
+{
+  "id": "album_0754669b",
+  "title": "周杰伦的床边故事",
+  "artistIds": [
+    "artist_a720e242"
+  ],
+  "songIds": [
+    "song_8ad1b912",
+    "song_65c56d92",
+    "song_c4024c7d",
+    "song_20df7ca0",
+    "song_1be509d2",
+    "song_e4a63d4b",
+    "song_190f0203",
+    "song_025c9b90",
+    "song_61c2085e",
+    "song_2873b28e"
+  ],
+  "releaseDate": "2016-06-24",
+  "type": "录音室专辑"
+}

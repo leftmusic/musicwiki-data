@@ -1,0 +1,16 @@
+{
+  "id": "album_eee0210a",
+  "title": "和自己对话",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_6d08be74",
+    "song_fb6720f4",
+    "song_9bb8fb64",
+    "song_aa011ac1",
+    "song_40b80e93"
+  ],
+  "releaseDate": "2015-12-25",
+  "type": "录音室专辑"
+}

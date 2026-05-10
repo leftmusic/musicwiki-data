@@ -1,0 +1,14 @@
+{
+  "id": "artist_56fffeb6",
+  "name": "Nirvana",
+  "songIds": [
+    "song_7409ffda",
+    "song_bba6d0a3",
+    "song_555e41b0"
+  ],
+  "albumIds": [],
+  "birthDate": "1987",
+  "genres": [
+    "摇滚"
+  ]
+}

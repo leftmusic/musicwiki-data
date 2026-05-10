@@ -1,0 +1,22 @@
+{
+  "id": "album_f2b407de",
+  "title": "魔杰座",
+  "artistIds": [
+    "artist_a720e242"
+  ],
+  "songIds": [
+    "song_99903a53",
+    "song_ebcd1796",
+    "song_bcdcd01c",
+    "song_07aaf772",
+    "song_169ec71f",
+    "song_f68813f0",
+    "song_9afcc87d",
+    "song_0e14715f",
+    "song_286242dd",
+    "song_45652d8c",
+    "song_d0a9e980"
+  ],
+  "releaseDate": "2008-10-14",
+  "type": "录音室专辑"
+}

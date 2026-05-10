@@ -1,0 +1,20 @@
+{
+  "id": "artist_869e261b",
+  "name": "孙燕姿",
+  "songIds": [
+    "song_12f66d16",
+    "song_105163c0",
+    "song_ff547cb7",
+    "song_3cc3e5a7"
+  ],
+  "albumIds": [
+    "album_1c0e67ad",
+    "album_5041e934",
+    "album_8a814b46"
+  ],
+  "birthDate": "1978-07-23",
+  "genres": [
+    "流行",
+    "华语流行"
+  ]
+}

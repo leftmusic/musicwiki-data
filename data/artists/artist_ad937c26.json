@@ -1,0 +1,19 @@
+{
+  "id": "artist_ad937c26",
+  "name": "林俊杰",
+  "songIds": [
+    "song_baee32bc",
+    "song_4a51b0e7",
+    "song_65b1f9cd"
+  ],
+  "albumIds": [
+    "album_98c9d25a",
+    "album_71291779",
+    "album_bb24869a"
+  ],
+  "birthDate": "1981-03-27",
+  "genres": [
+    "流行",
+    "R&B"
+  ]
+}

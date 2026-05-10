@@ -1,0 +1,23 @@
+{
+  "id": "album_da0a682d",
+  "title": "曹操",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_1baa50d2",
+    "song_ed66517a",
+    "song_765f3103",
+    "song_2f1c6b54",
+    "song_1bdfb894",
+    "song_cb638b64",
+    "song_9d3d709e",
+    "song_67d9899e",
+    "song_6bcbed04",
+    "song_6cec1f2c",
+    "song_2345139e",
+    "song_7aa36393"
+  ],
+  "releaseDate": "2006-02-17",
+  "type": "录音室专辑"
+}

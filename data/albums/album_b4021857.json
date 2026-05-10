@@ -1,0 +1,22 @@
+{
+  "id": "album_b4021857",
+  "title": "乐行者",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_74c6a52c",
+    "song_ab82a231",
+    "song_a26ee567",
+    "song_de5025f5",
+    "song_ed416ce7",
+    "song_0d033639",
+    "song_dd33f944",
+    "song_19c114cf",
+    "song_4c2864ba",
+    "song_ad5a7964",
+    "song_18877ec1"
+  ],
+  "releaseDate": "2003-04-10",
+  "type": "录音室专辑"
+}

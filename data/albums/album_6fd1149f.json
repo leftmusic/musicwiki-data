@@ -1,0 +1,20 @@
+{
+  "id": "album_6fd1149f",
+  "title": "我的心太乱",
+  "artistIds": [
+    "artist_b9c38e3e"
+  ],
+  "songIds": [
+    "song_bcea6641",
+    "song_759d7d7c",
+    "song_d6310762",
+    "song_ed374c99",
+    "song_249c7edf",
+    "song_5bccaa7a",
+    "song_1445d90a",
+    "song_0c7f88ed",
+    "song_e5691735"
+  ],
+  "releaseDate": "1996-12",
+  "type": "录音室专辑"
+}

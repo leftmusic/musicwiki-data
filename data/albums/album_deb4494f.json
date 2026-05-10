@@ -1,0 +1,21 @@
+{
+  "id": "album_deb4494f",
+  "title": "七里香",
+  "artistIds": [
+    "artist_a720e242"
+  ],
+  "songIds": [
+    "song_75d2aae0",
+    "song_d86a5028",
+    "song_830a733c",
+    "song_a6bbea5d",
+    "song_0733fbff",
+    "song_7b0183f4",
+    "song_860ebf9b",
+    "song_cb50262d",
+    "song_3c11a52d",
+    "song_39b50b90"
+  ],
+  "releaseDate": "2004-08-03",
+  "type": "录音室专辑"
+}

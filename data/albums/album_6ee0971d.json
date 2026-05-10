@@ -1,0 +1,23 @@
+{
+  "id": "album_6ee0971d",
+  "title": "十一月的萧邦",
+  "artistIds": [
+    "artist_a720e242"
+  ],
+  "songIds": [
+    "song_923f2a06",
+    "song_009ec250",
+    "song_b40a0667",
+    "song_a09c4018",
+    "song_9d637a31",
+    "song_a7b3b2c5",
+    "song_33d55766",
+    "song_9d88b6a6",
+    "song_2d1c2aba",
+    "song_25b80050",
+    "song_2e9a49cd",
+    "song_0b40ff05"
+  ],
+  "releaseDate": "2005-11-01",
+  "type": "录音室专辑"
+}

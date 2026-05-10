@@ -1,0 +1,14 @@
+{
+  "id": "song_802ad3c8",
+  "title": "First Song",
+  "artistIds": [
+    "artist_bda38caa"
+  ],
+  "albumId": "",
+  "releaseDate": "2023",
+  "genres": [
+    "电子",
+    "流行"
+  ],
+  "lyrics": ""
+}

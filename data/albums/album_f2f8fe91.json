@@ -1,0 +1,12 @@
+{
+  "id": "album_f2f8fe91",
+  "title": "The Show",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_2a3d94af"
+  ],
+  "releaseDate": "2021",
+  "type": "单曲"
+}

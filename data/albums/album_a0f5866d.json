@@ -1,0 +1,8 @@
+{
+  "id": "album_a0f5866d",
+  "title": "未完成的歌",
+  "artistIds": ["artist_b4b4b82d"],
+  "songIds": ["song_f700aac8"],
+  "releaseDate": "2017-12-25",
+  "type": "录音室专辑"
+}

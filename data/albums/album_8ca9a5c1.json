@@ -1,0 +1,16 @@
+{
+  "id": "album_8ca9a5c1",
+  "title": "流浪地球2 电影原声大碟",
+  "artistIds": [
+    "artist_763924c5"
+  ],
+  "songIds": [
+    "song_b95eb4cd",
+    "song_da02e961",
+    "song_d522d9f2",
+    "song_cc91f220",
+    "song_fde20d71"
+  ],
+  "releaseDate": "2023",
+  "type": "电影原声"
+}

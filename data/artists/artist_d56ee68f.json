@@ -1,0 +1,17 @@
+{
+  "id": "artist_d56ee68f",
+  "name": "Michael Jackson",
+  "songIds": [
+    "song_8ad607ec",
+    "song_c2883830",
+    "song_e8f53bc0",
+    "song_316f5e9f"
+  ],
+  "albumIds": [],
+  "birthDate": "1958-08-29",
+  "genres": [
+    "流行",
+    "舞曲",
+    "R&B"
+  ]
+}

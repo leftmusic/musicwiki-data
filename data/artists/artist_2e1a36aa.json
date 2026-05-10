@@ -1,0 +1,18 @@
+{
+  "id": "artist_2e1a36aa",
+  "name": "LiSA",
+  "songIds": [
+    "song_87309b9d",
+    "song_0abe97c4",
+    "song_22ee8a71",
+    "song_f70f6217",
+    "song_234ca157"
+  ],
+  "albumIds": [],
+  "birthDate": "1987-06-24",
+  "genres": [
+    "流行",
+    "摇滚",
+    "动漫"
+  ]
+}

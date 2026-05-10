@@ -1,0 +1,16 @@
+{
+  "id": "artist_6a984385",
+  "name": "Rihanna",
+  "songIds": [
+    "song_2418c4f9",
+    "song_57ec931b",
+    "song_0c773383",
+    "song_3c3a20bd"
+  ],
+  "albumIds": [],
+  "birthDate": "1988-02-20",
+  "genres": [
+    "流行",
+    "R&B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "album_302daa54",
+  "title": "100天",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_641bd206",
+    "song_4d230e9f",
+    "song_8453a583",
+    "song_63b0b554",
+    "song_f03cb74f",
+    "song_8d5c844d",
+    "song_fbefaf4e",
+    "song_0857946f",
+    "song_66c40512",
+    "song_0e5b89e6",
+    "song_826eddeb",
+    "song_ba98176e",
+    "song_b448e6a5"
+  ],
+  "releaseDate": "2009-12-18",
+  "type": "录音室专辑"
+}

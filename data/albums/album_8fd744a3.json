@@ -1,0 +1,8 @@
+{
+  "id": "album_8fd744a3",
+  "title": "春花",
+  "artistIds": ["artist_b6ef29f4"],
+  "songIds": ["song_9f491ca9", "song_04b5e1c6", "song_5dc4ce19", "song_95126304", "song_4485cce1", "song_f115f25c", "song_772bc4bd", "song_99e11b22"],
+  "releaseDate": "2021-12-03",
+  "type": "录音室专辑"
+}

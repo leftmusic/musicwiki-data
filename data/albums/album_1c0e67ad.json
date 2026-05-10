@@ -1,0 +1,14 @@
+{
+  "id": "album_1c0e67ad",
+  "title": "The Moment",
+  "artistIds": [
+    "artist_869e261b"
+  ],
+  "songIds": [
+    "song_12f66d16",
+    "song_d68ea409",
+    "song_cd919bf6"
+  ],
+  "releaseDate": "2003-08-22",
+  "type": "精选集"
+}

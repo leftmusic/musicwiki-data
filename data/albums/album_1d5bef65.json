@@ -1,0 +1,8 @@
+{
+  "id": "album_1d5bef65",
+  "title": "潘朵拉",
+  "artistIds": ["artist_53f97c38"],
+  "songIds": ["song_8e016033"],
+  "releaseDate": "2006-01-06",
+  "type": "录音室专辑"
+}

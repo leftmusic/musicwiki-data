@@ -1,0 +1,24 @@
+{
+  "id": "artist_1520afdf",
+  "name": "周杰伦",
+  "songIds": [
+    "song_8ad1b912",
+    "song_75d2aae0",
+    "song_282c3f1b",
+    "song_ccf89e2a",
+    "song_e3b5a3a9",
+    "song_8927c0e1",
+    "song_2f27de76"
+  ],
+  "albumIds": [
+    "album_08c4e1e3",
+    "album_35e3ee7d",
+    "album_66e53799"
+  ],
+  "birthDate": "1979-01-18",
+  "genres": [
+    "流行",
+    "R&B",
+    "中国风"
+  ]
+}

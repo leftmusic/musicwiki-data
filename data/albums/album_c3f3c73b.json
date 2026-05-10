@@ -1,0 +1,12 @@
+{
+  "id": "album_c3f3c73b",
+  "title": "This is China",
+  "artistIds": [
+    "artist_43f076fb"
+  ],
+  "songIds": [
+    "song_face8e57"
+  ],
+  "releaseDate": "2016",
+  "type": "单曲"
+}

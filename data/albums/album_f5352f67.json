@@ -1,0 +1,21 @@
+{
+  "id": "album_f5352f67",
+  "title": "八度空间",
+  "artistIds": [
+    "artist_a720e242"
+  ],
+  "songIds": [
+    "song_0934d750",
+    "song_d017bf43",
+    "song_977356b2",
+    "song_088c66f6",
+    "song_aeb0b76e",
+    "song_5215f00c",
+    "song_1047d797",
+    "song_dfe9bccd",
+    "song_a5a786b9",
+    "song_6819b4d0"
+  ],
+  "releaseDate": "2002-07-18",
+  "type": "录音室专辑"
+}

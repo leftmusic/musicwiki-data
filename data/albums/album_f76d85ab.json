@@ -1,0 +1,14 @@
+{
+  "id": "album_f76d85ab",
+  "title": "Blue",
+  "artistIds": [
+    "artist_43f076fb"
+  ],
+  "songIds": [
+    "song_71f09fa2",
+    "song_4432e977",
+    "song_c85bbd6e"
+  ],
+  "releaseDate": "2017",
+  "type": "专辑"
+}

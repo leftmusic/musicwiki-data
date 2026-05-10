@@ -1,0 +1,15 @@
+{
+  "id": "artist_a1fc0e1d",
+  "name": "Dua Lipa",
+  "songIds": [
+    "song_cf0679df",
+    "song_93428781",
+    "song_4052fdb8"
+  ],
+  "albumIds": [],
+  "birthDate": "1995-08-22",
+  "genres": [
+    "流行",
+    "舞曲"
+  ]
+}

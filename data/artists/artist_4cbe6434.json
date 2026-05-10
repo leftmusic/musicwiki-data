@@ -1,0 +1,15 @@
+{
+  "id": "artist_4cbe6434",
+  "name": "Billie Eilish",
+  "songIds": [
+    "song_ee41ee41",
+    "song_1c965e6d",
+    "song_7db425c1",
+    "song_67f60a5d"
+  ],
+  "albumIds": [],
+  "birthDate": "2001-12-18",
+  "genres": [
+    "流行"
+  ]
+}

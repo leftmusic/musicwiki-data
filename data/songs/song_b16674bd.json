@@ -1,0 +1,13 @@
+{
+  "id": "song_b16674bd",
+  "title": "最伟大的作品",
+  "artistIds": [
+    "artist_a720e242"
+  ],
+  "albumId": "album_02aa4435",
+  "releaseDate": "2022",
+  "genres": [
+    "流行"
+  ],
+  "lyrics": ""
+}

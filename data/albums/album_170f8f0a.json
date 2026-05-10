@@ -1,0 +1,19 @@
+{
+  "id": "album_170f8f0a",
+  "title": "幸存者·如你",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_1f7573b5",
+    "song_a8689fec",
+    "song_32b60c50",
+    "song_8aef177a",
+    "song_78d6b021",
+    "song_57144545",
+    "song_c88d94c0",
+    "song_c9893b4b"
+  ],
+  "releaseDate": "2020-10-20",
+  "type": "录音室专辑"
+}

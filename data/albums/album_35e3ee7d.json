@@ -1,0 +1,15 @@
+{
+  "id": "album_35e3ee7d",
+  "title": "七里香",
+  "artistIds": [
+    "artist_1520afdf"
+  ],
+  "songIds": [
+    "song_75d2aae0",
+    "song_7c92dbaf",
+    "song_13a59820",
+    "song_9600ebb5"
+  ],
+  "releaseDate": "2004-08-03",
+  "type": "录音室专辑"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "album_dfe1384b",
+  "title": "重拾_快乐",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_9547eb3e",
+    "song_0ebdfe63",
+    "song_6a5b61c8",
+    "song_ae24dd15",
+    "song_123ff88b",
+    "song_1c190f2f",
+    "song_4fb9c4ed"
+  ],
+  "releaseDate": "2023-04-21",
+  "type": "录音室专辑"
+}

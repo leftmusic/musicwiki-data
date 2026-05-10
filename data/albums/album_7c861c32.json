@@ -1,0 +1,13 @@
+{
+  "id": "album_7c861c32",
+  "title": "忘记",
+  "artistIds": [
+    "artist_b9c38e3e"
+  ],
+  "songIds": [
+    "song_037a7f89",
+    "song_b5d6e848"
+  ],
+  "releaseDate": "2001-05",
+  "type": "录音室专辑"
+}

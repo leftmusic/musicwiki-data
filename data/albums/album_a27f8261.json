@@ -1,0 +1,13 @@
+{
+  "id": "album_a27f8261",
+  "title": "小小的愿望 电影原声",
+  "artistIds": [
+    "artist_763924c5"
+  ],
+  "songIds": [
+    "song_4f14a9cb",
+    "song_c5f9a468"
+  ],
+  "releaseDate": "2019",
+  "type": "电影原声"
+}

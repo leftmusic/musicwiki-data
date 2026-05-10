@@ -1,0 +1,17 @@
+{
+  "id": "album_a23bd7bf",
+  "title": "3D-E电",
+  "artistIds": [
+    "artist_43f076fb"
+  ],
+  "songIds": [
+    "song_30d075a3",
+    "song_8a97cdeb",
+    "song_38123e52",
+    "song_485f73c9",
+    "song_637b4020",
+    "song_89904713"
+  ],
+  "releaseDate": "2015-08",
+  "type": "专辑"
+}

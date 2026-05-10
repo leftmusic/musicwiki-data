@@ -1,0 +1,13 @@
+{
+  "id": "artist_0c0902d7",
+  "name": "Eagles",
+  "songIds": [
+    "song_d844ae39",
+    "song_b3489382"
+  ],
+  "albumIds": [],
+  "birthDate": "1971",
+  "genres": [
+    "摇滚"
+  ]
+}

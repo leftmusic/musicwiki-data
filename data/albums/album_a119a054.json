@@ -1,0 +1,16 @@
+{
+  "id": "album_a119a054",
+  "title": "JJ的咖啡调调 Vol.2",
+  "artistIds": [
+    "artist_64ba5d85"
+  ],
+  "songIds": [
+    "song_1a015625",
+    "song_cf4895fc",
+    "song_a88a7782",
+    "song_212e0d4e",
+    "song_faad0a89"
+  ],
+  "releaseDate": "2022-12-24",
+  "type": "翻唱专辑"
+}

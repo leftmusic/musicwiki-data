@@ -1,0 +1,13 @@
+{
+  "id": "album_89fc26ee",
+  "title": "模特",
+  "artistIds": [
+    "artist_5b270e65"
+  ],
+  "songIds": [
+    "song_4fa5c7b6",
+    "song_16b53190"
+  ],
+  "releaseDate": "2013-09-17",
+  "type": "录音室专辑"
+}

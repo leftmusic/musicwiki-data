@@ -1,0 +1,15 @@
+{
+  "id": "album_c134be52",
+  "title": "竞燃",
+  "artistIds": [
+    "artist_43f076fb"
+  ],
+  "songIds": [
+    "song_8fb1d1fc",
+    "song_bfd38e0d",
+    "song_74a21c0b",
+    "song_ee949faa"
+  ],
+  "releaseDate": "2019-10",
+  "type": "专辑"
+}
