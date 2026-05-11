@@ -1,0 +1,21 @@
+{
+  "id": "album_56b349a0",
+  "title": "来生缘",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_e5ba4fa3",
+    "song_2855f110",
+    "song_506e481f",
+    "song_60e65466",
+    "song_76605391",
+    "song_dd9ac3a3",
+    "song_79cdfccf",
+    "song_8dae3358",
+    "song_95145866",
+    "song_52d22205"
+  ],
+  "releaseDate": "1991-12-09",
+  "type": "录音室专辑"
+}

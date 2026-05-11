@@ -1,0 +1,20 @@
+{
+  "id": "album_96420906",
+  "title": "真永远",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_f74fbcc4",
+    "song_4c03c937",
+    "song_426010b7",
+    "song_bb7ff2f3",
+    "song_306f5f21",
+    "song_c6c6c924",
+    "song_f0a85370",
+    "song_9292544f",
+    "song_ff2bc7f8"
+  ],
+  "releaseDate": "1995-09-01",
+  "type": "录音室专辑"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "album_98748956",
+  "title": "维瓦尔第：四季",
+  "artistIds": [
+    "artist_2f47df2a"
+  ],
+  "songIds": [
+    "song_76dba2f8",
+    "song_ee3fcfb8",
+    "song_73fa0d87",
+    "song_3162845a",
+    "song_4c96154b",
+    "song_7a7660f6",
+    "song_5ce79812",
+    "song_d3005ddb",
+    "song_86d843c0"
+  ],
+  "releaseDate": "1725",
+  "type": "古典合集"
+}

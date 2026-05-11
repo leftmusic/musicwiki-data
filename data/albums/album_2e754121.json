@@ -1,0 +1,18 @@
+{
+  "id": "album_2e754121",
+  "title": "莫扎特：歌剧选段",
+  "artistIds": [
+    "artist_5f8cf295"
+  ],
+  "songIds": [
+    "song_471e3666",
+    "song_a821db27",
+    "song_c1b66cae",
+    "song_ae3b675b",
+    "song_3e41f9c0",
+    "song_3327448e",
+    "song_61b61f28"
+  ],
+  "releaseDate": "1786-1791",
+  "type": "古典合集"
+}

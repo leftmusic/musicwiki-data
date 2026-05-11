@@ -1,0 +1,19 @@
+{
+  "id": "album_f87a3ec2",
+  "title": "奥尔夫与巴伯：现代古典",
+  "artistIds": [
+    "artist_d8bd2243"
+  ],
+  "songIds": [
+    "song_b8bded16",
+    "song_c555be0f",
+    "song_161eda8c",
+    "song_da80e2ec",
+    "song_abbcb45b",
+    "song_f823a13e",
+    "song_7ac397aa",
+    "song_73be4bb1"
+  ],
+  "releaseDate": "1935-1967",
+  "type": "古典合集"
+}

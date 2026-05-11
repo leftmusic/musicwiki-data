@@ -1,0 +1,19 @@
+{
+  "id": "album_5d124c32",
+  "title": "亨德尔：管弦乐作品",
+  "artistIds": [
+    "artist_778a36bf"
+  ],
+  "songIds": [
+    "song_9ce170c1",
+    "song_b14ea739",
+    "song_89c2c82f",
+    "song_5457fe32",
+    "song_f97f4589",
+    "song_27c03cbc",
+    "song_2f65cfd6",
+    "song_6f592b24"
+  ],
+  "releaseDate": "1717-1749",
+  "type": "古典合集"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "album_b5c0c4a5",
+  "title": "父亲",
+  "artistIds": [
+    "artist_29550c4b"
+  ],
+  "songIds": [
+    "song_ccaa2dbd",
+    "song_87159839",
+    "song_866affbd",
+    "song_7dca1377"
+  ],
+  "releaseDate": "2011-12-21",
+  "type": "EP"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "album_70bf17e6",
+  "title": "柴可夫斯基：芭蕾与协奏曲",
+  "artistIds": [
+    "artist_5a167607"
+  ],
+  "songIds": [
+    "song_fafd01d0",
+    "song_de6e647c",
+    "song_409f1c92",
+    "song_cd0a78f5",
+    "song_c66eb632",
+    "song_aef874bb",
+    "song_99f791b1",
+    "song_3b0ca41f",
+    "song_e7094eb5",
+    "song_00f51944"
+  ],
+  "releaseDate": "1875-1893",
+  "type": "古典合集"
+}

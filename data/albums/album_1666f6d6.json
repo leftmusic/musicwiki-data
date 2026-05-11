@@ -1,0 +1,19 @@
+{
+  "id": "album_1666f6d6",
+  "title": "贝多芬：其他名作",
+  "artistIds": [
+    "artist_79bdc785"
+  ],
+  "songIds": [
+    "song_61d53871",
+    "song_91197e51",
+    "song_eafbd5e3",
+    "song_59f54c24",
+    "song_1aa5995f",
+    "song_a490fecd",
+    "song_e2b46147",
+    "song_3a50c2ef"
+  ],
+  "releaseDate": "1800-1827",
+  "type": "古典合集"
+}

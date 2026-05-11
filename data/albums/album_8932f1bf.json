@@ -1,0 +1,22 @@
+{
+  "id": "album_8932f1bf",
+  "title": "如果有一天",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_6a26cb7f",
+    "song_bc8a9caa",
+    "song_81f4b82c",
+    "song_e781165c",
+    "song_07e536ae",
+    "song_df08e527",
+    "song_42baa294",
+    "song_053ed715",
+    "song_26bdd637",
+    "song_1a7568b8",
+    "song_3d2b49b0"
+  ],
+  "releaseDate": "2003-06-05",
+  "type": "录音室专辑"
+}

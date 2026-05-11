@@ -1,0 +1,26 @@
+{
+  "id": "artist_c89605ef",
+  "name": "弗朗茨·舒伯特",
+  "birthDate": "1797-01-31",
+  "genres": [
+    "古典",
+    "浪漫主义"
+  ],
+  "songIds": [
+    "song_3dfd0ee1",
+    "song_236eb72e",
+    "song_26903fcd",
+    "song_b8fd275d",
+    "song_b3b9cfc3",
+    "song_000d077c",
+    "song_f3b34922",
+    "song_eb3bd0b0",
+    "song_2ddc5d17",
+    "song_af4484c5",
+    "song_ddfb187f"
+  ],
+  "albumIds": [
+    "album_27f1c4bf"
+  ],
+  "bio": ""
+}

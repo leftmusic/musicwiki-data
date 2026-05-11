@@ -1,0 +1,23 @@
+{
+  "id": "artist_9437130e",
+  "name": "弗朗茨·李斯特",
+  "birthDate": "1811-10-22",
+  "genres": [
+    "古典",
+    "浪漫主义"
+  ],
+  "songIds": [
+    "song_16d2184f",
+    "song_b420ee0d",
+    "song_b5766fee",
+    "song_a3d152b2",
+    "song_72ef6f08",
+    "song_205bd344",
+    "song_339d1a0d",
+    "song_d0efb0ab"
+  ],
+  "albumIds": [
+    "album_c4ca53a8"
+  ],
+  "bio": ""
+}

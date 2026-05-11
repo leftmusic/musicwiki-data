@@ -1,0 +1,26 @@
+{
+  "id": "album_04a1094a",
+  "title": "肖邦：钢琴独奏作品",
+  "artistIds": [
+    "artist_8b88de2c"
+  ],
+  "songIds": [
+    "song_a7866a2c",
+    "song_b7f2b844",
+    "song_c2940210",
+    "song_182b8e3c",
+    "song_f7e7a312",
+    "song_eb414a6c",
+    "song_e02edc25",
+    "song_14c76227",
+    "song_5cad3a57",
+    "song_9c28af41",
+    "song_43df93c7",
+    "song_7cdaabbb",
+    "song_1c8eb3f6",
+    "song_28929123",
+    "song_3248dd75"
+  ],
+  "releaseDate": "1830-1849",
+  "type": "古典合集"
+}

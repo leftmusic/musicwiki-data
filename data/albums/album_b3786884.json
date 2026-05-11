@@ -1,0 +1,21 @@
+{
+  "id": "album_b3786884",
+  "title": "德彪西：印象主义作品",
+  "artistIds": [
+    "artist_fbad011f"
+  ],
+  "songIds": [
+    "song_38dfdad7",
+    "song_8cfec05f",
+    "song_f7114558",
+    "song_dc41e882",
+    "song_faf51f76",
+    "song_f23dd98d",
+    "song_a5fcd3e2",
+    "song_d9e232ca",
+    "song_a436419c",
+    "song_92c7fdd0"
+  ],
+  "releaseDate": "1890-1910",
+  "type": "古典合集"
+}

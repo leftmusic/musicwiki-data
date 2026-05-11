@@ -1,0 +1,23 @@
+{
+  "id": "album_81d45e69",
+  "title": "筷子兄弟单曲集",
+  "artistIds": [
+    "artist_29550c4b"
+  ],
+  "songIds": [
+    "song_32206a86",
+    "song_168e0567",
+    "song_dbcc4736",
+    "song_5a02b6f0",
+    "song_b6eea428",
+    "song_5614460e",
+    "song_d3ace519",
+    "song_5dbaf7b8",
+    "song_f8c91cc1",
+    "song_fb5dbf14",
+    "song_e1b3f0b0",
+    "song_30efbcb9"
+  ],
+  "releaseDate": "2007-2020",
+  "type": "单曲合集"
+}

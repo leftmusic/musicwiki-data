@@ -1,0 +1,37 @@
+{
+  "id": "artist_5f8cf295",
+  "name": "沃尔夫冈·阿马德乌斯·莫扎特",
+  "birthDate": "1756-01-27",
+  "genres": [
+    "古典"
+  ],
+  "songIds": [
+    "song_b15677fc",
+    "song_dadc3e18",
+    "song_be117740",
+    "song_051df5ac",
+    "song_116340af",
+    "song_2381b4c1",
+    "song_4fa5b97b",
+    "song_6202b67d",
+    "song_48161b7f",
+    "song_ec0462ec",
+    "song_61b2e496",
+    "song_a7bf75b1",
+    "song_5e09f30a",
+    "song_68364834",
+    "song_471e3666",
+    "song_a821db27",
+    "song_c1b66cae",
+    "song_ae3b675b",
+    "song_3e41f9c0",
+    "song_3327448e",
+    "song_61b61f28"
+  ],
+  "albumIds": [
+    "album_b578d680",
+    "album_6611aec9",
+    "album_2e754121"
+  ],
+  "bio": ""
+}

@@ -1,0 +1,24 @@
+{
+  "id": "artist_81af45ef",
+  "name": "古斯塔夫·马勒",
+  "birthDate": "1860-07-07",
+  "genres": [
+    "古典",
+    "浪漫主义"
+  ],
+  "songIds": [
+    "song_566b7a31",
+    "song_806f6545",
+    "song_792602cd",
+    "song_60b63fe7",
+    "song_5439addc",
+    "song_9a3b065b",
+    "song_109c2bad",
+    "song_884a816d",
+    "song_808575d0"
+  ],
+  "albumIds": [
+    "album_2a9c3f0c"
+  ],
+  "bio": ""
+}

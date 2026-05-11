@@ -1,0 +1,23 @@
+{
+  "id": "artist_d8bd2243",
+  "name": "卡尔·奥尔夫",
+  "birthDate": "1895-07-10",
+  "genres": [
+    "古典",
+    "现代"
+  ],
+  "songIds": [
+    "song_b8bded16",
+    "song_c555be0f",
+    "song_161eda8c",
+    "song_da80e2ec",
+    "song_abbcb45b",
+    "song_f823a13e",
+    "song_7ac397aa",
+    "song_73be4bb1"
+  ],
+  "albumIds": [
+    "album_f87a3ec2"
+  ],
+  "bio": ""
+}

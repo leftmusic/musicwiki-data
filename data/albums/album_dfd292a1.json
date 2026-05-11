@@ -1,0 +1,16 @@
+{
+  "id": "album_dfd292a1",
+  "title": "夏日Fiesta",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_33d387c1",
+    "song_03935151",
+    "song_fddbb722",
+    "song_b41a96dd",
+    "song_ae41055b"
+  ],
+  "releaseDate": "2001-07-01",
+  "type": "录音室专辑"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "album_394b7a50",
+  "title": "勃拉姆斯：交响曲与协奏曲",
+  "artistIds": [
+    "artist_438947b9"
+  ],
+  "songIds": [
+    "song_bdac0c56",
+    "song_ba78dfb4",
+    "song_57b98398",
+    "song_c47ad44e",
+    "song_b1949860",
+    "song_6cedd0e1",
+    "song_b4c318e5",
+    "song_0d71a8a4",
+    "song_f94d41b2"
+  ],
+  "releaseDate": "1855-1896",
+  "type": "古典合集"
+}

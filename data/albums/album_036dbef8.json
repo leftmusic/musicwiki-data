@@ -1,0 +1,21 @@
+{
+  "id": "album_036dbef8",
+  "title": "爱意",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_2c925514",
+    "song_cb08c0f0",
+    "song_adf6eb66",
+    "song_fdbecbab",
+    "song_4932afb6",
+    "song_87c55a22",
+    "song_11efb54d",
+    "song_1da89406",
+    "song_04c20924",
+    "song_928ffbf5"
+  ],
+  "releaseDate": "1993-12-23",
+  "type": "录音室专辑"
+}

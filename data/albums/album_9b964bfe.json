@@ -1,0 +1,22 @@
+{
+  "id": "album_9b964bfe",
+  "title": "普契尼与威尔第：歌剧选段",
+  "artistIds": [
+    "artist_9ddff446"
+  ],
+  "songIds": [
+    "song_25a770aa",
+    "song_fefc556c",
+    "song_5a6720ec",
+    "song_9635ce30",
+    "song_7dc58a2e",
+    "song_52ec8fac",
+    "song_deb0f3f9",
+    "song_51e6f1aa",
+    "song_d7a30dbd",
+    "song_9d93b2df",
+    "song_5a7bbace"
+  ],
+  "releaseDate": "1890-1924",
+  "type": "古典合集"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "album_8556b06e",
+  "title": "你是我的女人",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_f3d01987",
+    "song_5ce32e31",
+    "song_092235d6",
+    "song_f5b5bcd0",
+    "song_c2876601",
+    "song_cc2a9ecf",
+    "song_1bb2a229",
+    "song_b19afc4d",
+    "song_505e8990"
+  ],
+  "releaseDate": "1998-07-01",
+  "type": "录音室专辑"
+}

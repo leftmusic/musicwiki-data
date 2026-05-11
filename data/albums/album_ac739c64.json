@@ -1,0 +1,21 @@
+{
+  "id": "album_ac739c64",
+  "title": "瓦格纳与帕格尼尼：歌剧与炫技",
+  "artistIds": [
+    "artist_507fe68e"
+  ],
+  "songIds": [
+    "song_7d6739e2",
+    "song_e6c91401",
+    "song_b3149a33",
+    "song_62699ba8",
+    "song_039dacd0",
+    "song_34f7e68e",
+    "song_a485491d",
+    "song_46f01020",
+    "song_4bfc7f5e",
+    "song_f847d5b9"
+  ],
+  "releaseDate": "1843-1870",
+  "type": "古典合集"
+}

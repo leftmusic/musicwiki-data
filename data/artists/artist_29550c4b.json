@@ -1,0 +1,37 @@
+{
+  "id": "artist_29550c4b",
+  "name": "筷子兄弟",
+  "birthDate": "2007",
+  "genres": [
+    "流行",
+    "网络"
+  ],
+  "songIds": [
+    "song_894ba330",
+    "song_119726ec",
+    "song_c5aea30a",
+    "song_c97d4a6d",
+    "song_ccaa2dbd",
+    "song_87159839",
+    "song_866affbd",
+    "song_7dca1377",
+    "song_32206a86",
+    "song_168e0567",
+    "song_dbcc4736",
+    "song_5a02b6f0",
+    "song_b6eea428",
+    "song_5614460e",
+    "song_d3ace519",
+    "song_5dbaf7b8",
+    "song_f8c91cc1",
+    "song_fb5dbf14",
+    "song_e1b3f0b0",
+    "song_30efbcb9"
+  ],
+  "albumIds": [
+    "album_8df9ec85",
+    "album_b5c0c4a5",
+    "album_81d45e69"
+  ],
+  "bio": ""
+}

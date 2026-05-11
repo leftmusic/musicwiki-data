@@ -1,0 +1,20 @@
+{
+  "id": "album_cf707910",
+  "title": "肖邦：协奏曲与其他作品",
+  "artistIds": [
+    "artist_8b88de2c"
+  ],
+  "songIds": [
+    "song_a8bdfe1f",
+    "song_664d726e",
+    "song_6d8edd09",
+    "song_76fa060e",
+    "song_40b940f1",
+    "song_c11a4f17",
+    "song_1d534a22",
+    "song_b68e436c",
+    "song_c5962426"
+  ],
+  "releaseDate": "1830-1846",
+  "type": "古典合集"
+}

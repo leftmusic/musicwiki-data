@@ -1,0 +1,20 @@
+{
+  "id": "album_0e0b0f0d",
+  "title": "忘情水",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_d3af03f5",
+    "song_e851d4bf",
+    "song_8c5576f7",
+    "song_63b059a6",
+    "song_b6fb3613",
+    "song_b98d213a",
+    "song_2db86da1",
+    "song_171a064d",
+    "song_432d9d6c"
+  ],
+  "releaseDate": "1994-04-30",
+  "type": "录音室专辑"
+}

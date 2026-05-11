@@ -1,0 +1,48 @@
+{
+  "id": "artist_79bdc785",
+  "name": "路德维希·凡·贝多芬",
+  "birthDate": "1770-12-16",
+  "genres": [
+    "古典"
+  ],
+  "songIds": [
+    "song_ae6e4822",
+    "song_efbdceec",
+    "song_1bd708cb",
+    "song_6c050e90",
+    "song_3ac55e84",
+    "song_5dc8c869",
+    "song_7ac960d7",
+    "song_91fb1312",
+    "song_b6a9a57c",
+    "song_2e731165",
+    "song_0140141b",
+    "song_0d2cda3d",
+    "song_ddbdcfcd",
+    "song_792a0f5f",
+    "song_9c280858",
+    "song_35c1cde7",
+    "song_32d44b3c",
+    "song_76e861df",
+    "song_19259fc7",
+    "song_07587b15",
+    "song_fd151e14",
+    "song_0d0e1561",
+    "song_1f87fe44",
+    "song_c33b384f",
+    "song_61d53871",
+    "song_91197e51",
+    "song_eafbd5e3",
+    "song_59f54c24",
+    "song_1aa5995f",
+    "song_a490fecd",
+    "song_e2b46147",
+    "song_3a50c2ef"
+  ],
+  "albumIds": [
+    "album_1beb0c89",
+    "album_f220336a",
+    "album_1666f6d6"
+  ],
+  "bio": ""
+}

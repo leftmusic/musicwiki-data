@@ -1,0 +1,21 @@
+{
+  "id": "album_c30bbb87",
+  "title": "答案就是你",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_fe0d14a9",
+    "song_f4d241b9",
+    "song_4e58bc62",
+    "song_95cb3339",
+    "song_88343e4b",
+    "song_50a66bb6",
+    "song_a156a1e9",
+    "song_836fffc7",
+    "song_86c7fb31",
+    "song_d4df0257"
+  ],
+  "releaseDate": "1993-07-01",
+  "type": "录音室专辑"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "album_1db03a9b",
+  "title": "天意",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_4281a235"
+  ],
+  "releaseDate": "1994-11-25",
+  "type": "录音室专辑"
+}

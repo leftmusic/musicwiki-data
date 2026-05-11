@@ -1,0 +1,15 @@
+{
+  "id": "album_446d63ff",
+  "title": "帕赫贝尔与巴洛克名作",
+  "artistIds": [
+    "artist_a0ba72ad"
+  ],
+  "songIds": [
+    "song_09faa0e2",
+    "song_b3b068fa",
+    "song_170f2a82",
+    "song_bd56a6dd"
+  ],
+  "releaseDate": "1680-1750",
+  "type": "古典合集"
+}

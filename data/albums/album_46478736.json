@@ -1,0 +1,20 @@
+{
+  "id": "album_46478736",
+  "title": "声音",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_505af994",
+    "song_ed9ef9d8",
+    "song_15b955cf",
+    "song_5332b2f9",
+    "song_75676055",
+    "song_828d35fd",
+    "song_b085933d",
+    "song_59e84cd0",
+    "song_862d87f0"
+  ],
+  "releaseDate": "2006-08-01",
+  "type": "录音室专辑"
+}

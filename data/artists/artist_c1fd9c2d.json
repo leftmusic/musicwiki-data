@@ -1,0 +1,32 @@
+{
+  "id": "artist_c1fd9c2d",
+  "name": "约翰·塞巴斯蒂安·巴赫",
+  "birthDate": "1685-03-31",
+  "genres": [
+    "古典",
+    "巴洛克"
+  ],
+  "songIds": [
+    "song_e65c596c",
+    "song_280dbe60",
+    "song_1aab80e0",
+    "song_232aed1f",
+    "song_290aca5c",
+    "song_7b78fa6d",
+    "song_c77404f3",
+    "song_4cfa9377",
+    "song_b2e3e7f5",
+    "song_64c8c03a",
+    "song_055f1c14",
+    "song_efc90219",
+    "song_4ceeed14",
+    "song_be2d1a90",
+    "song_21680f86",
+    "song_fc49d252"
+  ],
+  "albumIds": [
+    "album_5d913b83",
+    "album_2cf59173"
+  ],
+  "bio": ""
+}

@@ -1,0 +1,19 @@
+{
+  "id": "album_b578d680",
+  "title": "莫扎特：交响曲与小夜曲",
+  "artistIds": [
+    "artist_5f8cf295"
+  ],
+  "songIds": [
+    "song_b15677fc",
+    "song_dadc3e18",
+    "song_be117740",
+    "song_051df5ac",
+    "song_116340af",
+    "song_2381b4c1",
+    "song_4fa5b97b",
+    "song_6202b67d"
+  ],
+  "releaseDate": "1764-1788",
+  "type": "古典合集"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "album_4b399b04",
+  "title": "德沃夏克与格里格：民族乐派",
+  "artistIds": [
+    "artist_8be18cab"
+  ],
+  "songIds": [
+    "song_427f36ae",
+    "song_946a17e6",
+    "song_83221c2a",
+    "song_d26a8452",
+    "song_395e1911",
+    "song_6079d77f",
+    "song_ab37c114",
+    "song_42cc5344",
+    "song_b02d99cc",
+    "song_9f42c2eb"
+  ],
+  "releaseDate": "1889-1907",
+  "type": "古典合集"
+}

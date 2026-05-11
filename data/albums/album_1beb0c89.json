@@ -1,0 +1,27 @@
+{
+  "id": "album_1beb0c89",
+  "title": "贝多芬：交响曲全集",
+  "artistIds": [
+    "artist_79bdc785"
+  ],
+  "songIds": [
+    "song_ae6e4822",
+    "song_efbdceec",
+    "song_1bd708cb",
+    "song_6c050e90",
+    "song_3ac55e84",
+    "song_5dc8c869",
+    "song_7ac960d7",
+    "song_91fb1312",
+    "song_b6a9a57c",
+    "song_2e731165",
+    "song_0140141b",
+    "song_0d2cda3d",
+    "song_ddbdcfcd",
+    "song_792a0f5f",
+    "song_9c280858",
+    "song_35c1cde7"
+  ],
+  "releaseDate": "1800-1824",
+  "type": "古典合集"
+}

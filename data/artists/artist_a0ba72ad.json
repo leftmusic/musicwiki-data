@@ -1,0 +1,19 @@
+{
+  "id": "artist_a0ba72ad",
+  "name": "约翰·帕赫贝尔",
+  "birthDate": "1653-09-01",
+  "genres": [
+    "古典",
+    "巴洛克"
+  ],
+  "songIds": [
+    "song_09faa0e2",
+    "song_b3b068fa",
+    "song_170f2a82",
+    "song_bd56a6dd"
+  ],
+  "albumIds": [
+    "album_446d63ff"
+  ],
+  "bio": ""
+}

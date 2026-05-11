@@ -1,0 +1,24 @@
+{
+  "id": "artist_438947b9",
+  "name": "约翰内斯·勃拉姆斯",
+  "birthDate": "1833-05-07",
+  "genres": [
+    "古典",
+    "浪漫主义"
+  ],
+  "songIds": [
+    "song_bdac0c56",
+    "song_ba78dfb4",
+    "song_57b98398",
+    "song_c47ad44e",
+    "song_b1949860",
+    "song_6cedd0e1",
+    "song_b4c318e5",
+    "song_0d71a8a4",
+    "song_f94d41b2"
+  ],
+  "albumIds": [
+    "album_394b7a50"
+  ],
+  "bio": ""
+}

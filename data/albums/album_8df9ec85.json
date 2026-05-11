@@ -1,0 +1,15 @@
+{
+  "id": "album_8df9ec85",
+  "title": "老男孩之猛龙过江 电影原声带",
+  "artistIds": [
+    "artist_29550c4b"
+  ],
+  "songIds": [
+    "song_894ba330",
+    "song_119726ec",
+    "song_c5aea30a",
+    "song_c97d4a6d"
+  ],
+  "releaseDate": "2014-05-01",
+  "type": "电影原声"
+}

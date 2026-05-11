@@ -1,0 +1,20 @@
+{
+  "id": "album_7da23526",
+  "title": "拉赫玛尼诺夫：钢琴作品",
+  "artistIds": [
+    "artist_dec55e49"
+  ],
+  "songIds": [
+    "song_2dd26a54",
+    "song_25bc0d79",
+    "song_02b60e87",
+    "song_21cd6612",
+    "song_fdf04dbd",
+    "song_8a4962ae",
+    "song_16347e87",
+    "song_49b8f986",
+    "song_01b42e12"
+  ],
+  "releaseDate": "1891-1917",
+  "type": "古典合集"
+}

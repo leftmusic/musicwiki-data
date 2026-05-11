@@ -1,0 +1,35 @@
+{
+  "id": "artist_5a167607",
+  "name": "彼得·伊里奇·柴可夫斯基",
+  "birthDate": "1840-05-07",
+  "genres": [
+    "古典",
+    "浪漫主义"
+  ],
+  "songIds": [
+    "song_b3ce63f2",
+    "song_ccaa715a",
+    "song_056f6392",
+    "song_2ad4ed16",
+    "song_33738569",
+    "song_51ec454f",
+    "song_378b319f",
+    "song_cb790691",
+    "song_16a60302",
+    "song_fafd01d0",
+    "song_de6e647c",
+    "song_409f1c92",
+    "song_cd0a78f5",
+    "song_c66eb632",
+    "song_aef874bb",
+    "song_99f791b1",
+    "song_3b0ca41f",
+    "song_e7094eb5",
+    "song_00f51944"
+  ],
+  "albumIds": [
+    "album_36d7f77a",
+    "album_70bf17e6"
+  ],
+  "bio": ""
+}

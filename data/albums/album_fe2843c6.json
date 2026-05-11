@@ -1,0 +1,21 @@
+{
+  "id": "album_fe2843c6",
+  "title": "海顿与舒曼：古典与浪漫",
+  "artistIds": [
+    "artist_2f417bad"
+  ],
+  "songIds": [
+    "song_93469b0b",
+    "song_926ad36a",
+    "song_40eded16",
+    "song_64c47486",
+    "song_587140b7",
+    "song_097f80a0",
+    "song_4a95166d",
+    "song_614fec8b",
+    "song_6bd3b739",
+    "song_4d565595"
+  ],
+  "releaseDate": "1781-1850",
+  "type": "古典合集"
+}

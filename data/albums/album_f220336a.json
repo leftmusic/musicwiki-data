@@ -1,0 +1,19 @@
+{
+  "id": "album_f220336a",
+  "title": "贝多芬：钢琴奏鸣曲集",
+  "artistIds": [
+    "artist_79bdc785"
+  ],
+  "songIds": [
+    "song_32d44b3c",
+    "song_76e861df",
+    "song_19259fc7",
+    "song_07587b15",
+    "song_fd151e14",
+    "song_0d0e1561",
+    "song_1f87fe44",
+    "song_c33b384f"
+  ],
+  "releaseDate": "1795-1822",
+  "type": "古典合集"
+}

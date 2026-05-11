@@ -1,0 +1,21 @@
+{
+  "id": "album_743cd9c3",
+  "title": "萨蒂与拉威尔：印象主义",
+  "artistIds": [
+    "artist_224ccd94"
+  ],
+  "songIds": [
+    "song_46742b64",
+    "song_87f233c8",
+    "song_d6f5c8a6",
+    "song_9f38494f",
+    "song_1d7c814a",
+    "song_55eeff12",
+    "song_dcad9e3a",
+    "song_0c753129",
+    "song_fee47772",
+    "song_59850af6"
+  ],
+  "releaseDate": "1888-1928",
+  "type": "古典合集"
+}

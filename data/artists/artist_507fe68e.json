@@ -1,0 +1,25 @@
+{
+  "id": "artist_507fe68e",
+  "name": "理查德·瓦格纳",
+  "birthDate": "1813-05-22",
+  "genres": [
+    "古典",
+    "歌剧"
+  ],
+  "songIds": [
+    "song_7d6739e2",
+    "song_e6c91401",
+    "song_b3149a33",
+    "song_62699ba8",
+    "song_039dacd0",
+    "song_34f7e68e",
+    "song_a485491d",
+    "song_46f01020",
+    "song_4bfc7f5e",
+    "song_f847d5b9"
+  ],
+  "albumIds": [
+    "album_ac739c64"
+  ],
+  "bio": ""
+}

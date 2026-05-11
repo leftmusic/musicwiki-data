@@ -1,0 +1,19 @@
+{
+  "id": "album_0518c256",
+  "title": "Coffee or Tea",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_cb15110b",
+    "song_efc0ba49",
+    "song_3c4476e2",
+    "song_7a96602d",
+    "song_87eaebea",
+    "song_75152c1b",
+    "song_cfe56630",
+    "song_5edb76e3"
+  ],
+  "releaseDate": "2004-08-01",
+  "type": "录音室专辑"
+}

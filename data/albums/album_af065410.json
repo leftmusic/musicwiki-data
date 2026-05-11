@@ -1,0 +1,17 @@
+{
+  "id": "album_af065410",
+  "title": "一只牛的异想世界",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_d1b7ad48",
+    "song_ad3df1f9",
+    "song_1af01ca9",
+    "song_035a1a12",
+    "song_d66557fb",
+    "song_fc98b8f5"
+  ],
+  "releaseDate": "2007-07-01",
+  "type": "录音室专辑"
+}

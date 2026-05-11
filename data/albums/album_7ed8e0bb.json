@@ -1,0 +1,19 @@
+{
+  "id": "album_7ed8e0bb",
+  "title": "谢谢你的爱",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_cf259e29",
+    "song_3f9cb86a",
+    "song_1a6f1981",
+    "song_2e5f2c93",
+    "song_1307fee1",
+    "song_618f71f2",
+    "song_a616c915",
+    "song_7395a26d"
+  ],
+  "releaseDate": "1992-07-22",
+  "type": "录音室专辑"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "album_d3e4ae6d",
+  "title": "希望·爱",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_2a2f410c",
+    "song_fdf11f7d"
+  ],
+  "releaseDate": "2009-02-01",
+  "type": "录音室专辑"
+}

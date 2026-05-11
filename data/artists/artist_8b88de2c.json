@@ -1,0 +1,40 @@
+{
+  "id": "artist_8b88de2c",
+  "name": "弗雷德里克·肖邦",
+  "birthDate": "1810-03-01",
+  "genres": [
+    "古典",
+    "浪漫主义"
+  ],
+  "songIds": [
+    "song_a7866a2c",
+    "song_b7f2b844",
+    "song_c2940210",
+    "song_182b8e3c",
+    "song_f7e7a312",
+    "song_eb414a6c",
+    "song_e02edc25",
+    "song_14c76227",
+    "song_5cad3a57",
+    "song_9c28af41",
+    "song_43df93c7",
+    "song_7cdaabbb",
+    "song_1c8eb3f6",
+    "song_28929123",
+    "song_3248dd75",
+    "song_a8bdfe1f",
+    "song_664d726e",
+    "song_6d8edd09",
+    "song_76fa060e",
+    "song_40b940f1",
+    "song_c11a4f17",
+    "song_1d534a22",
+    "song_b68e436c",
+    "song_c5962426"
+  ],
+  "albumIds": [
+    "album_04a1094a",
+    "album_cf707910"
+  ],
+  "bio": ""
+}

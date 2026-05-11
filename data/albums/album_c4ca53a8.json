@@ -1,0 +1,19 @@
+{
+  "id": "album_c4ca53a8",
+  "title": "李斯特：钢琴与管弦作品",
+  "artistIds": [
+    "artist_9437130e"
+  ],
+  "songIds": [
+    "song_16d2184f",
+    "song_b420ee0d",
+    "song_b5766fee",
+    "song_a3d152b2",
+    "song_72ef6f08",
+    "song_205bd344",
+    "song_339d1a0d",
+    "song_d0efb0ab"
+  ],
+  "releaseDate": "1835-1886",
+  "type": "古典合集"
+}

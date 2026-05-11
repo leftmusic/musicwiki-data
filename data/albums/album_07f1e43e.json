@@ -1,0 +1,18 @@
+{
+  "id": "album_07f1e43e",
+  "title": "男人的爱",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_3c2997e6",
+    "song_94709811",
+    "song_c670fec1",
+    "song_5b5e61b8",
+    "song_692637d7",
+    "song_603d8a2b",
+    "song_c5d97269"
+  ],
+  "releaseDate": "2000-08-01",
+  "type": "录音室专辑"
+}

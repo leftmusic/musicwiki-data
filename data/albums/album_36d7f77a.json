@@ -1,0 +1,20 @@
+{
+  "id": "album_36d7f77a",
+  "title": "柴可夫斯基：交响曲",
+  "artistIds": [
+    "artist_5a167607"
+  ],
+  "songIds": [
+    "song_b3ce63f2",
+    "song_ccaa715a",
+    "song_056f6392",
+    "song_2ad4ed16",
+    "song_33738569",
+    "song_51ec454f",
+    "song_378b319f",
+    "song_cb790691",
+    "song_16a60302"
+  ],
+  "releaseDate": "1866-1893",
+  "type": "古典合集"
+}

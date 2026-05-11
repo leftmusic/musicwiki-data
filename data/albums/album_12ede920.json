@@ -1,0 +1,20 @@
+{
+  "id": "album_12ede920",
+  "title": "美丽的一天",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_406376f3",
+    "song_f73bf0e7",
+    "song_702354de",
+    "song_3993bf47",
+    "song_07191a3c",
+    "song_ee9ca47a",
+    "song_818ed3da",
+    "song_2f6b6eb6",
+    "song_8ccdfb2c"
+  ],
+  "releaseDate": "2002-07-01",
+  "type": "录音室专辑"
+}

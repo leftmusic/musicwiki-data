@@ -1,0 +1,17 @@
+{
+  "id": "album_6611aec9",
+  "title": "莫扎特：钢琴协奏曲与奏鸣曲",
+  "artistIds": [
+    "artist_5f8cf295"
+  ],
+  "songIds": [
+    "song_48161b7f",
+    "song_ec0462ec",
+    "song_61b2e496",
+    "song_a7bf75b1",
+    "song_5e09f30a",
+    "song_68364834"
+  ],
+  "releaseDate": "1777-1791",
+  "type": "古典合集"
+}

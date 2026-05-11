@@ -1,0 +1,19 @@
+{
+  "id": "album_9ccca8f3",
+  "title": "在乎您",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_ac723883",
+    "song_97cc5ce3",
+    "song_760687ea",
+    "song_95576898",
+    "song_8c1b1374",
+    "song_80c48be8",
+    "song_d2acd016",
+    "song_678d4949"
+  ],
+  "releaseDate": "1996-06-01",
+  "type": "录音室专辑"
+}

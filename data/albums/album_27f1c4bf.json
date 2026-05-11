@@ -1,0 +1,22 @@
+{
+  "id": "album_27f1c4bf",
+  "title": "舒伯特与门德尔松：艺术歌曲与序曲",
+  "artistIds": [
+    "artist_c89605ef"
+  ],
+  "songIds": [
+    "song_3dfd0ee1",
+    "song_236eb72e",
+    "song_26903fcd",
+    "song_b8fd275d",
+    "song_b3b9cfc3",
+    "song_000d077c",
+    "song_f3b34922",
+    "song_eb3bd0b0",
+    "song_2ddc5d17",
+    "song_af4484c5",
+    "song_ddfb187f"
+  ],
+  "releaseDate": "1815-1843",
+  "type": "古典合集"
+}

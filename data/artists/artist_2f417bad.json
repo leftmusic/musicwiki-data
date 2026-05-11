@@ -1,0 +1,24 @@
+{
+  "id": "artist_2f417bad",
+  "name": "约瑟夫·海顿",
+  "birthDate": "1732-03-31",
+  "genres": [
+    "古典"
+  ],
+  "songIds": [
+    "song_93469b0b",
+    "song_926ad36a",
+    "song_40eded16",
+    "song_64c47486",
+    "song_587140b7",
+    "song_097f80a0",
+    "song_4a95166d",
+    "song_614fec8b",
+    "song_6bd3b739",
+    "song_4d565595"
+  ],
+  "albumIds": [
+    "album_fe2843c6"
+  ],
+  "bio": ""
+}

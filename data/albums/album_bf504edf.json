@@ -1,0 +1,20 @@
+{
+  "id": "album_bf504edf",
+  "title": "约翰·施特劳斯：圆舞曲",
+  "artistIds": [
+    "artist_8986ad6f"
+  ],
+  "songIds": [
+    "song_655220ed",
+    "song_19cd81bc",
+    "song_1ea6c490",
+    "song_e9cce063",
+    "song_31b159f3",
+    "song_c5615027",
+    "song_6c5cbcc1",
+    "song_0685158e",
+    "song_b725419a"
+  ],
+  "releaseDate": "1860-1899",
+  "type": "古典合集"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "album_48405e8e",
+  "title": "爱在刻骨铭心时",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_24615d36",
+    "song_c88e8dd4",
+    "song_ff4734f9",
+    "song_edf28146",
+    "song_890ff735",
+    "song_6bbe80c5",
+    "song_b90284ba",
+    "song_22613ea4",
+    "song_d35c429b",
+    "song_2f87043a"
+  ],
+  "releaseDate": "1997-12-01",
+  "type": "录音室专辑"
+}

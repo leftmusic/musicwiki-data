@@ -1,0 +1,25 @@
+{
+  "id": "artist_8be18cab",
+  "name": "安东宁·德沃夏克",
+  "birthDate": "1841-09-08",
+  "genres": [
+    "古典",
+    "民族主义"
+  ],
+  "songIds": [
+    "song_427f36ae",
+    "song_946a17e6",
+    "song_83221c2a",
+    "song_d26a8452",
+    "song_395e1911",
+    "song_6079d77f",
+    "song_ab37c114",
+    "song_42cc5344",
+    "song_b02d99cc",
+    "song_9f42c2eb"
+  ],
+  "albumIds": [
+    "album_4b399b04"
+  ],
+  "bio": ""
+}

@@ -1,0 +1,19 @@
+{
+  "id": "album_5d913b83",
+  "title": "巴赫：管弦乐与协奏曲",
+  "artistIds": [
+    "artist_c1fd9c2d"
+  ],
+  "songIds": [
+    "song_e65c596c",
+    "song_280dbe60",
+    "song_1aab80e0",
+    "song_232aed1f",
+    "song_290aca5c",
+    "song_7b78fa6d",
+    "song_c77404f3",
+    "song_4cfa9377"
+  ],
+  "releaseDate": "1717-1723",
+  "type": "古典合集"
+}

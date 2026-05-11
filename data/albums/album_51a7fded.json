@@ -1,0 +1,15 @@
+{
+  "id": "album_51a7fded",
+  "title": "真我的风采",
+  "artistIds": [
+    "artist_c7846cb4"
+  ],
+  "songIds": [
+    "song_ce2337b3",
+    "song_0559ad67",
+    "song_473edfcb",
+    "song_be4cb4f5"
+  ],
+  "releaseDate": "1992-12-01",
+  "type": "录音室专辑"
+}
