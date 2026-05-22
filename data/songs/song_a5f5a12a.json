@@ -1,9 +1,15 @@
 {
   "id": "song_a5f5a12a",
   "title": "树",
-  "artistIds": ["artist_b6ef29f4"],
+  "artistIds": [
+    "artist_b6ef29f4"
+  ],
   "albumId": "album_59a73f36",
   "releaseDate": "2022",
-  "genres": ["独立流行"],
-  "lyrics": ""
+  "genres": [
+    "独立流行"
+  ],
+  "lyrics": "",
+  "musicUrl": "https://music.163.com/song?id=1395353270",
+  "neteaseId": 1395353270
 }

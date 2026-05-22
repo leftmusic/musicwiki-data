@@ -1,9 +1,14 @@
 {
   "id": "song_f115f25c",
   "title": "静",
-  "artistIds": ["artist_b6ef29f4"],
+  "artistIds": [
+    "artist_b6ef29f4"
+  ],
   "albumId": "album_8fd744a3",
   "releaseDate": "2021",
-  "genres": ["流行摇滚"],
-  "lyrics": ""
+  "genres": [
+    "流行摇滚"
+  ],
+  "lyrics": "",
+  "musicUrl": ""
 }

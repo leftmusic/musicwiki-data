@@ -1,9 +1,15 @@
 {
   "id": "song_9f491ca9",
   "title": "跳舞的稻草",
-  "artistIds": ["artist_b6ef29f4"],
+  "artistIds": [
+    "artist_b6ef29f4"
+  ],
   "albumId": "album_8fd744a3",
   "releaseDate": "2021",
-  "genres": ["流行摇滚"],
-  "lyrics": ""
+  "genres": [
+    "流行摇滚"
+  ],
+  "lyrics": "",
+  "musicUrl": "https://music.163.com/song?id=1413414444",
+  "neteaseId": 1413414444
 }

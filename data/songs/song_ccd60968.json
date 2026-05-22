@@ -1,9 +1,15 @@
 {
   "id": "song_ccd60968",
   "title": "以正义之名",
-  "artistIds": ["artist_b6ef29f4"],
+  "artistIds": [
+    "artist_b6ef29f4"
+  ],
   "albumId": "album_59a73f36",
   "releaseDate": "2022",
-  "genres": ["独立流行"],
-  "lyrics": ""
+  "genres": [
+    "独立流行"
+  ],
+  "lyrics": "",
+  "musicUrl": "https://music.163.com/song?id=1820587961",
+  "neteaseId": 1820587961
 }

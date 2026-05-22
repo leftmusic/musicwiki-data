@@ -1,9 +1,15 @@
 {
   "id": "song_18cd7876",
   "title": "我们都有美好的未来",
-  "artistIds": ["artist_b6ef29f4"],
+  "artistIds": [
+    "artist_b6ef29f4"
+  ],
   "albumId": "album_f0a4d8e4",
   "releaseDate": "",
-  "genres": ["流行摇滚"],
-  "lyrics": ""
+  "genres": [
+    "流行摇滚"
+  ],
+  "lyrics": "",
+  "musicUrl": "https://music.163.com/song?id=2080151275",
+  "neteaseId": 2080151275
 }

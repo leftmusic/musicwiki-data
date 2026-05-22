@@ -1,9 +1,15 @@
 {
   "id": "song_5dc4ce19",
   "title": "春花",
-  "artistIds": ["artist_b6ef29f4"],
+  "artistIds": [
+    "artist_b6ef29f4"
+  ],
   "albumId": "album_8fd744a3",
   "releaseDate": "2021",
-  "genres": ["流行摇滚"],
-  "lyrics": ""
+  "genres": [
+    "流行摇滚"
+  ],
+  "lyrics": "",
+  "musicUrl": "https://music.163.com/song?id=1459627677",
+  "neteaseId": 1459627677
 }
