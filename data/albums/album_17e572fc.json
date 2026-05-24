@@ -1,0 +1,18 @@
+{
+  "id": "album_17e572fc",
+  "title": "Good Time",
+  "artistIds": [
+    "artist_dd18c2dd"
+  ],
+  "songIds": [
+    "song_8ba38e81",
+    "song_2e6a0050",
+    "song_34388723",
+    "song_30e4ec96",
+    "song_70bd26a0",
+    "song_3f0178a2",
+    "song_129c6d7e"
+  ],
+  "releaseDate": "1999-11-01",
+  "type": "专辑"
+}

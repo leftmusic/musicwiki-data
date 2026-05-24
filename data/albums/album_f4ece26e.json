@@ -1,0 +1,21 @@
+{
+  "id": "album_f4ece26e",
+  "title": "继续革命",
+  "artistIds": [
+    "artist_dd18c2dd"
+  ],
+  "songIds": [
+    "song_aa879071",
+    "song_eb881dd6",
+    "song_04c460f2",
+    "song_5c58b745",
+    "song_97aa2d18",
+    "song_09430cdb",
+    "song_91eb2f52",
+    "song_dad3d254",
+    "song_548e5488",
+    "song_98434706"
+  ],
+  "releaseDate": "1992-08-01",
+  "type": "专辑"
+}

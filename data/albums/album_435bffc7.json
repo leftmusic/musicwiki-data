@@ -1,0 +1,19 @@
+{
+  "id": "album_435bffc7",
+  "title": "不见不散",
+  "artistIds": [
+    "artist_dd18c2dd"
+  ],
+  "songIds": [
+    "song_3d9bfd10",
+    "song_75fc69e7",
+    "song_33a8f4f8",
+    "song_506efcaa",
+    "song_d658a0b0",
+    "song_0229f01e",
+    "song_ba21b51d",
+    "song_3d48353e"
+  ],
+  "releaseDate": "1998-12-01",
+  "type": "专辑"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "album_d6f84e2b",
+  "title": "乐与怒",
+  "artistIds": [
+    "artist_dd18c2dd"
+  ],
+  "songIds": [
+    "song_b6651d2a",
+    "song_0f029e13",
+    "song_e4e89930",
+    "song_530afd94",
+    "song_84ad98fd",
+    "song_877390d8",
+    "song_82417c50"
+  ],
+  "releaseDate": "1993-05-01",
+  "type": "专辑"
+}

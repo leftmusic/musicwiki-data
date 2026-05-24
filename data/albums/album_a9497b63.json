@@ -1,0 +1,14 @@
+{
+  "id": "album_a9497b63",
+  "title": "YOUNG",
+  "artistIds": [
+    "artist_a28ee898"
+  ],
+  "songIds": [
+    "song_0b0a6d54",
+    "song_077ab0b9",
+    "song_99da4ee9"
+  ],
+  "releaseDate": "2019-07-26",
+  "type": "专辑"
+}

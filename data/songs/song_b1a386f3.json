@@ -1,0 +1,15 @@
+{
+  "id": "song_b1a386f3",
+  "title": "Spotlight",
+  "artistIds": [
+    "artist_a28ee898"
+  ],
+  "albumId": "album_5657f605",
+  "releaseDate": "2023",
+  "genres": [
+    "流行"
+  ],
+  "lyrics": "",
+  "musicUrl": "",
+  "neteaseId": null
+}

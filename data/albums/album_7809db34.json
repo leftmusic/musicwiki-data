@@ -1,0 +1,20 @@
+{
+  "id": "album_7809db34",
+  "title": "秘密警察",
+  "artistIds": [
+    "artist_dd18c2dd"
+  ],
+  "songIds": [
+    "song_e437a913",
+    "song_efe0290c",
+    "song_00e6d2bb",
+    "song_64645f9e",
+    "song_b52e1423",
+    "song_9928c8e9",
+    "song_65a50e48",
+    "song_112a51a7",
+    "song_eb619089"
+  ],
+  "releaseDate": "1988-09-01",
+  "type": "专辑"
+}

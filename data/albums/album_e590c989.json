@@ -1,0 +1,19 @@
+{
+  "id": "album_e590c989",
+  "title": "二楼后座",
+  "artistIds": [
+    "artist_dd18c2dd"
+  ],
+  "songIds": [
+    "song_074b768e",
+    "song_8332072e",
+    "song_8ae5cbe8",
+    "song_e0bb3633",
+    "song_631e4b2c",
+    "song_72c0441e",
+    "song_2f6b762d",
+    "song_70e61c6a"
+  ],
+  "releaseDate": "1994-06-01",
+  "type": "专辑"
+}

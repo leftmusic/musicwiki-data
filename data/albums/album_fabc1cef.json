@@ -1,0 +1,15 @@
+{
+  "id": "album_fabc1cef",
+  "title": "迷 (MI)",
+  "artistIds": [
+    "artist_a28ee898"
+  ],
+  "songIds": [
+    "song_21671f2e",
+    "song_c498f0f4",
+    "song_82d2634e",
+    "song_2a38c45e"
+  ],
+  "releaseDate": "2021-04-13",
+  "type": "专辑"
+}

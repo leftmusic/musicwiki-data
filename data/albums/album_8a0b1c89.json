@@ -1,0 +1,20 @@
+{
+  "id": "album_8a0b1c89",
+  "title": "犹豫",
+  "artistIds": [
+    "artist_dd18c2dd"
+  ],
+  "songIds": [
+    "song_a431f1a8",
+    "song_cf57acce",
+    "song_c1ff3c12",
+    "song_10a279e9",
+    "song_053a5c7e",
+    "song_8fe316bd",
+    "song_44e68a34",
+    "song_cd1c8a78",
+    "song_3b6ab535"
+  ],
+  "releaseDate": "1991-09-01",
+  "type": "专辑"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "album_e278d5c9",
+  "title": "阿拉伯跳舞女郎",
+  "artistIds": [
+    "artist_dd18c2dd"
+  ],
+  "songIds": [
+    "song_9720ca41",
+    "song_af79785c",
+    "song_d6b6cd50",
+    "song_958149cd",
+    "song_f8ff7efb",
+    "song_fa158e7d",
+    "song_a120ed20",
+    "song_0e58cf20"
+  ],
+  "releaseDate": "1987-07-01",
+  "type": "专辑"
+}

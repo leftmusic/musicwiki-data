@@ -1,0 +1,22 @@
+{
+  "id": "album_e86caae4",
+  "title": "再见理想",
+  "artistIds": [
+    "artist_dd18c2dd"
+  ],
+  "songIds": [
+    "song_24aff7bd",
+    "song_d7c296b7",
+    "song_b363751b",
+    "song_d68766cd",
+    "song_f82eae40",
+    "song_de178206",
+    "song_45bc7f7b",
+    "song_2fb490c0",
+    "song_411fab5d",
+    "song_af2fbff4",
+    "song_88ca218c"
+  ],
+  "releaseDate": "1986-09-01",
+  "type": "专辑"
+}

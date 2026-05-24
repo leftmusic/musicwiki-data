@@ -1,0 +1,21 @@
+{
+  "id": "album_1857022e",
+  "title": "命运派对",
+  "artistIds": [
+    "artist_dd18c2dd"
+  ],
+  "songIds": [
+    "song_b39d59ac",
+    "song_4fd9a608",
+    "song_e2d7f717",
+    "song_30f8ef4a",
+    "song_282dbf20",
+    "song_571aa082",
+    "song_72a3e327",
+    "song_d29679a9",
+    "song_70d87ee0",
+    "song_44174f77"
+  ],
+  "releaseDate": "1990-09-01",
+  "type": "专辑"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "album_381a778a",
+  "title": "现代舞台",
+  "artistIds": [
+    "artist_dd18c2dd"
+  ],
+  "songIds": [
+    "song_b1ae6452",
+    "song_7e4746b1",
+    "song_291b31b2",
+    "song_6b74c172",
+    "song_569a6455",
+    "song_6adfda32",
+    "song_9bc731f8"
+  ],
+  "releaseDate": "1988-03-01",
+  "type": "专辑"
+}

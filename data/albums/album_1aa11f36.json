@@ -1,0 +1,12 @@
+{
+  "id": "album_1aa11f36",
+  "title": "RIDE OR DIE",
+  "artistIds": [
+    "artist_a28ee898"
+  ],
+  "songIds": [
+    "song_3ad1f18b"
+  ],
+  "releaseDate": "2023",
+  "type": "单曲"
+}

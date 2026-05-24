@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-05-22T14:10:56.052798+00:00",
+  "generatedAt": "2026-05-24T07:56:22.384271+00:00",
   "songs": {
     "song_a3eb218e": {
       "title": "孤勇者"
@@ -4552,6 +4552,441 @@
     },
     "song_30efbcb9": {
       "title": "汹涌人潮"
+    },
+    "song_8e9139d1": {
+      "title": "You Can Be My Girlfriend"
+    },
+    "song_00c895b3": {
+      "title": "Pull Up"
+    },
+    "song_3909d563": {
+      "title": "It's You"
+    },
+    "song_7d9f5fdb": {
+      "title": "Wait Wait Wait"
+    },
+    "song_21671f2e": {
+      "title": "迷"
+    },
+    "song_c498f0f4": {
+      "title": "现象 (Phenomenon)"
+    },
+    "song_82d2634e": {
+      "title": "默片 (Silent Film)"
+    },
+    "song_2a38c45e": {
+      "title": "迷 (MI)"
+    },
+    "song_0b0a6d54": {
+      "title": "YOUNG"
+    },
+    "song_077ab0b9": {
+      "title": "Hard To Get"
+    },
+    "song_99da4ee9": {
+      "title": "Wait Wait Wait (Remix)"
+    },
+    "song_b1a386f3": {
+      "title": "Spotlight"
+    },
+    "song_3ad1f18b": {
+      "title": "RIDE OR DIE"
+    },
+    "song_565a7ce0": {
+      "title": "Afterglow"
+    },
+    "song_24aff7bd": {
+      "title": "再见理想"
+    },
+    "song_d7c296b7": {
+      "title": "脑攻"
+    },
+    "song_b363751b": {
+      "title": "旧日的足迹"
+    },
+    "song_d68766cd": {
+      "title": "Long Way Without Friends"
+    },
+    "song_f82eae40": {
+      "title": "The Other Door"
+    },
+    "song_de178206": {
+      "title": "Dead Romance (Part I)"
+    },
+    "song_45bc7f7b": {
+      "title": "Dead Romance (Part II)"
+    },
+    "song_2fb490c0": {
+      "title": "大厦"
+    },
+    "song_411fab5d": {
+      "title": "Open Gate"
+    },
+    "song_af2fbff4": {
+      "title": "飞越灰暗"
+    },
+    "song_88ca218c": {
+      "title": "冲开一切"
+    },
+    "song_9720ca41": {
+      "title": "阿拉伯跳舞女郎"
+    },
+    "song_af79785c": {
+      "title": "过去与今天"
+    },
+    "song_d6b6cd50": {
+      "title": "孤单一吻"
+    },
+    "song_958149cd": {
+      "title": "沙丘魔女"
+    },
+    "song_f8ff7efb": {
+      "title": "声东击西"
+    },
+    "song_fa158e7d": {
+      "title": "随意飘荡"
+    },
+    "song_a120ed20": {
+      "title": "昔日舞曲"
+    },
+    "song_0e58cf20": {
+      "title": "水街"
+    },
+    "song_b1ae6452": {
+      "title": "现代舞台"
+    },
+    "song_7e4746b1": {
+      "title": "天真的创伤"
+    },
+    "song_291b31b2": {
+      "title": "赤红热血"
+    },
+    "song_6b74c172": {
+      "title": "冲上每度"
+    },
+    "song_569a6455": {
+      "title": "冷雨没暂停"
+    },
+    "song_6adfda32": {
+      "title": "我是愤怒"
+    },
+    "song_9bc731f8": {
+      "title": "迷墙"
+    },
+    "song_e437a913": {
+      "title": "大地"
+    },
+    "song_efe0290c": {
+      "title": "喜欢你"
+    },
+    "song_00e6d2bb": {
+      "title": "午夜流浪"
+    },
+    "song_64645f9e": {
+      "title": "岁月无声"
+    },
+    "song_b52e1423": {
+      "title": "为了你为了我"
+    },
+    "song_9928c8e9": {
+      "title": "逝去日子"
+    },
+    "song_65a50e48": {
+      "title": "可否冲破"
+    },
+    "song_112a51a7": {
+      "title": "无人的演奏"
+    },
+    "song_eb619089": {
+      "title": "We Don't Wanna Make It Without You"
+    },
+    "song_fdc2f4ec": {
+      "title": "文武英杰宣言"
+    },
+    "song_d3f58ba7": {
+      "title": "爆裂都市"
+    },
+    "song_1d90e0a7": {
+      "title": "摩登时代"
+    },
+    "song_150c49e7": {
+      "title": "我早应该习惯"
+    },
+    "song_95bab165": {
+      "title": "原谅我今天"
+    },
+    "song_f42956d7": {
+      "title": "曾是拥有"
+    },
+    "song_91680571": {
+      "title": "无言的感激"
+    },
+    "song_d7e70aa4": {
+      "title": "Urban Touch"
+    },
+    "song_b39d59ac": {
+      "title": "俾面派对"
+    },
+    "song_4fd9a608": {
+      "title": "两颗心"
+    },
+    "song_e2d7f717": {
+      "title": "相依的心"
+    },
+    "song_30f8ef4a": {
+      "title": "撒旦的诅咒"
+    },
+    "song_282dbf20": {
+      "title": "战胜心魔"
+    },
+    "song_571aa082": {
+      "title": "送给不知怎去保护环境的人"
+    },
+    "song_72a3e327": {
+      "title": "可知道"
+    },
+    "song_d29679a9": {
+      "title": "无悔这一生"
+    },
+    "song_70d87ee0": {
+      "title": "交织千个心"
+    },
+    "song_44174f77": {
+      "title": "撒旦的祝愿"
+    },
+    "song_a431f1a8": {
+      "title": "不再犹豫"
+    },
+    "song_cf57acce": {
+      "title": "谁伴我闯荡"
+    },
+    "song_c1ff3c12": {
+      "title": "高温派对"
+    },
+    "song_10a279e9": {
+      "title": "我多么想见你"
+    },
+    "song_053a5c7e": {
+      "title": "Who You Gonna Be"
+    },
+    "song_8fe316bd": {
+      "title": "爱你 Too Much"
+    },
+    "song_44e68a34": {
+      "title": "完全的拥有"
+    },
+    "song_cd1c8a78": {
+      "title": "冲开一切 (Live)"
+    },
+    "song_3b6ab535": {
+      "title": "谁伴我闯荡 (Live)"
+    },
+    "song_aa879071": {
+      "title": "长城"
+    },
+    "song_eb881dd6": {
+      "title": "遥望"
+    },
+    "song_04c460f2": {
+      "title": "农民"
+    },
+    "song_5c58b745": {
+      "title": "不可一世"
+    },
+    "song_97aa2d18": {
+      "title": "早班火车"
+    },
+    "song_09430cdb": {
+      "title": "无语问苍天"
+    },
+    "song_91eb2f52": {
+      "title": "快乐王国"
+    },
+    "song_dad3d254": {
+      "title": "继续沉醉"
+    },
+    "song_548e5488": {
+      "title": "手记"
+    },
+    "song_98434706": {
+      "title": "温暖的家乡"
+    },
+    "song_b6651d2a": {
+      "title": "狂人山庄"
+    },
+    "song_0f029e13": {
+      "title": "爸妈的话"
+    },
+    "song_e4e89930": {
+      "title": "和平与爱"
+    },
+    "song_530afd94": {
+      "title": "家有家法"
+    },
+    "song_84ad98fd": {
+      "title": "情人"
+    },
+    "song_877390d8": {
+      "title": "Haze"
+    },
+    "song_82417c50": {
+      "title": "爸爸妈妈"
+    },
+    "song_f8a6bc1a": {
+      "title": "爸爸的话"
+    },
+    "song_074b768e": {
+      "title": "遥远的Paradise"
+    },
+    "song_8332072e": {
+      "title": "伤口"
+    },
+    "song_8ae5cbe8": {
+      "title": "深蓝色长袍"
+    },
+    "song_e0bb3633": {
+      "title": "祝你愉快"
+    },
+    "song_631e4b2c": {
+      "title": "打救你"
+    },
+    "song_72c0441e": {
+      "title": "总有爱"
+    },
+    "song_2f6b762d": {
+      "title": "Paradise"
+    },
+    "song_70e61c6a": {
+      "title": "Paradise (Remix)"
+    },
+    "song_62884453": {
+      "title": "逼不得已"
+    },
+    "song_49184c77": {
+      "title": "教坏细路"
+    },
+    "song_3738167d": {
+      "title": "声音"
+    },
+    "song_652300d8": {
+      "title": "缺口"
+    },
+    "song_088014e6": {
+      "title": "吓!"
+    },
+    "song_a9bc51a5": {
+      "title": "麻木"
+    },
+    "song_82f46c9d": {
+      "title": "叹息"
+    },
+    "song_8e5dc30a": {
+      "title": "活得痛快"
+    },
+    "song_52ffbd6e": {
+      "title": "Cryin'"
+    },
+    "song_18fe0eca": {
+      "title": "教坏细路 (Instrumental)"
+    },
+    "song_808f01e8": {
+      "title": "大时代"
+    },
+    "song_db027864": {
+      "title": "旧历"
+    },
+    "song_60dd6193": {
+      "title": "请手放开"
+    },
+    "song_075c69f6": {
+      "title": "麻醉"
+    },
+    "song_9bb7b6be": {
+      "title": "回响"
+    },
+    "song_6cf9be33": {
+      "title": "我记得"
+    },
+    "song_db5b0fb2": {
+      "title": "罪"
+    },
+    "song_bb607067": {
+      "title": "惊喜"
+    },
+    "song_614bf0d2": {
+      "title": "妄想"
+    },
+    "song_032a4926": {
+      "title": "大时代 (Instrumental)"
+    },
+    "song_5d402a29": {
+      "title": "无事无事"
+    },
+    "song_ca0cb95c": {
+      "title": "雾"
+    },
+    "song_bea25e1e": {
+      "title": "管我"
+    },
+    "song_15f983a9": {
+      "title": "罪 (Instrumental)"
+    },
+    "song_f1984706": {
+      "title": "无事无事 (Instrumental)"
+    },
+    "song_4b8b2ef3": {
+      "title": "雾 (Instrumental)"
+    },
+    "song_f3d29727": {
+      "title": "管我 (Instrumental)"
+    },
+    "song_eddd30b4": {
+      "title": "惊喜 (Instrumental)"
+    },
+    "song_3d9bfd10": {
+      "title": "不见不散"
+    },
+    "song_75fc69e7": {
+      "title": "太"
+    },
+    "song_33a8f4f8": {
+      "title": "扯火"
+    },
+    "song_506efcaa": {
+      "title": "崇拜"
+    },
+    "song_d658a0b0": {
+      "title": "太 (Instrumental)"
+    },
+    "song_0229f01e": {
+      "title": "扯火 (Instrumental)"
+    },
+    "song_ba21b51d": {
+      "title": "崇拜 (Instrumental)"
+    },
+    "song_3d48353e": {
+      "title": "不见不散 (Instrumental)"
+    },
+    "song_8ba38e81": {
+      "title": "Good Time"
+    },
+    "song_2e6a0050": {
+      "title": "十八"
+    },
+    "song_34388723": {
+      "title": "荒谬"
+    },
+    "song_30e4ec96": {
+      "title": "看星"
+    },
+    "song_70bd26a0": {
+      "title": "十八 (Instrumental)"
+    },
+    "song_3f0178a2": {
+      "title": "荒谬 (Instrumental)"
+    },
+    "song_129c6d7e": {
+      "title": "看星 (Instrumental)"
     }
   },
   "artists": {
@@ -6356,6 +6791,75 @@
     },
     "album_81d45e69": {
       "title": "筷子兄弟单曲集"
+    },
+    "album_98198d55": {
+      "title": "1"
+    },
+    "album_fabc1cef": {
+      "title": "迷 (MI)"
+    },
+    "album_a9497b63": {
+      "title": "YOUNG"
+    },
+    "album_5657f605": {
+      "title": "Spotlight"
+    },
+    "album_1aa11f36": {
+      "title": "RIDE OR DIE"
+    },
+    "album_186dd300": {
+      "title": "Afterglow"
+    },
+    "album_e86caae4": {
+      "title": "再见理想"
+    },
+    "album_e278d5c9": {
+      "title": "阿拉伯跳舞女郎"
+    },
+    "album_381a778a": {
+      "title": "现代舞台"
+    },
+    "album_7809db34": {
+      "title": "秘密警察"
+    },
+    "album_be9a4ed3": {
+      "title": "Beyond IV"
+    },
+    "album_13bb1739": {
+      "title": "真的爱你 精选"
+    },
+    "album_1857022e": {
+      "title": "命运派对"
+    },
+    "album_8a0b1c89": {
+      "title": "犹豫"
+    },
+    "album_f4ece26e": {
+      "title": "继续革命"
+    },
+    "album_d6f84e2b": {
+      "title": "乐与怒"
+    },
+    "album_de930113": {
+      "title": "海阔天空"
+    },
+    "album_e590c989": {
+      "title": "二楼后座"
+    },
+    "album_afd0fee4": {
+      "title": "Sound"
+    },
+    "album_aa226598": {
+      "title": "请将手放开"
+    },
+    "album_f5d43b2f": {
+      "title": "惊喜"
+    },
+    "album_435bffc7": {
+      "title": "不见不散"
+    },
+    "album_17e572fc": {
+      "title": "Good Time"
     }
   }
 }

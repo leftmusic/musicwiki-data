@@ -1,0 +1,21 @@
+{
+  "id": "album_afd0fee4",
+  "title": "Sound",
+  "artistIds": [
+    "artist_dd18c2dd"
+  ],
+  "songIds": [
+    "song_62884453",
+    "song_49184c77",
+    "song_3738167d",
+    "song_652300d8",
+    "song_088014e6",
+    "song_a9bc51a5",
+    "song_82f46c9d",
+    "song_8e5dc30a",
+    "song_52ffbd6e",
+    "song_18fe0eca"
+  ],
+  "releaseDate": "1995-06-01",
+  "type": "专辑"
+}

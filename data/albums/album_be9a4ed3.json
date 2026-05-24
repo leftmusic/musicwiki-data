@@ -1,0 +1,19 @@
+{
+  "id": "album_be9a4ed3",
+  "title": "Beyond IV",
+  "artistIds": [
+    "artist_dd18c2dd"
+  ],
+  "songIds": [
+    "song_fdc2f4ec",
+    "song_d3f58ba7",
+    "song_1d90e0a7",
+    "song_150c49e7",
+    "song_95bab165",
+    "song_f42956d7",
+    "song_91680571",
+    "song_d7e70aa4"
+  ],
+  "releaseDate": "1989-07-01",
+  "type": "专辑"
+}

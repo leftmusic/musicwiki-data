@@ -1,0 +1,12 @@
+{
+  "id": "album_5657f605",
+  "title": "Spotlight",
+  "artistIds": [
+    "artist_a28ee898"
+  ],
+  "songIds": [
+    "song_b1a386f3"
+  ],
+  "releaseDate": "2023-05-22",
+  "type": "单曲"
+}

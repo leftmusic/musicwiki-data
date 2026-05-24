@@ -1,0 +1,19 @@
+{
+  "id": "album_f5d43b2f",
+  "title": "惊喜",
+  "artistIds": [
+    "artist_dd18c2dd"
+  ],
+  "songIds": [
+    "song_5d402a29",
+    "song_ca0cb95c",
+    "song_bea25e1e",
+    "song_15f983a9",
+    "song_f1984706",
+    "song_4b8b2ef3",
+    "song_f3d29727",
+    "song_eddd30b4"
+  ],
+  "releaseDate": "1997-12-01",
+  "type": "专辑"
+}
