@@ -9,7 +9,9 @@
   "genres": [
     "流行"
   ],
-  "lyrics": "",
+  "lyrics": "[00:00.00-1] 作词 : Chuck Fresh\n[00:00.00-1] 作曲 : Chuck Fresh\n",
   "musicUrl": "https://music.163.com/song?id=3349819935",
-  "neteaseId": 3349819935
+  "neteaseId": 3349819935,
+  "coverUrl": "https://p2.music.126.net/uO6f_fpE6MeId74C563JVg==/109951172745417812.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=3349819935"
 }

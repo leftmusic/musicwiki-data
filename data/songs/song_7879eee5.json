@@ -10,8 +10,9 @@
     "配乐",
     "原声"
   ],
-  "lyrics": "",
+  "lyrics": "[00:00.00] 作曲 : 阿鯤\n[00:01.00] 制作人 : 阿鲲\n[00:05.00]纯音乐，请欣赏\n",
   "musicUrl": "https://music.163.com/song?id=28457782",
   "neteaseId": 28457782,
-  "coverUrl": "https://p2.music.126.net/-c8r68S9qp-uyNRB3pK4HQ==/109951169986888222.jpg"
+  "coverUrl": "https://p1.music.126.net/-c8r68S9qp-uyNRB3pK4HQ==/109951169986888222.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=28457782"
 }

@@ -9,8 +9,9 @@
   "genres": [
     "流行"
   ],
-  "lyrics": "",
+  "lyrics": "[00:00.00] 作词 : 黄俊郎\n[00:01.00] 作曲 : 周杰伦\n[00:05.00]纯音乐，请欣赏\n",
   "musicUrl": "https://music.163.com/song?id=1369576055",
   "neteaseId": 1369576055,
-  "coverUrl": "https://p2.music.126.net/ikLX4iJGZ1Vo5YnrGxf77Q==/109951164122272917.jpg"
+  "coverUrl": "https://p2.music.126.net/ikLX4iJGZ1Vo5YnrGxf77Q==/109951164122272917.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=1369576055"
 }

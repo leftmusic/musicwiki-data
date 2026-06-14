@@ -9,7 +9,9 @@
   "genres": [
     "流行"
   ],
-  "lyrics": "",
+  "lyrics": "[00:00.00] 作曲 : ALen\n[00:01.00] 编曲 : ALen\n[00:05.00]纯音乐，请欣赏\n",
   "musicUrl": "https://music.163.com/song?id=3340797649",
-  "neteaseId": 3340797649
+  "neteaseId": 3340797649,
+  "coverUrl": "https://p1.music.126.net/sP5L--4FT_EHpsW6hwSZxg==/109951172496999853.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=3340797649"
 }

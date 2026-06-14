@@ -10,8 +10,9 @@
     "配乐",
     "原声"
   ],
-  "lyrics": "",
+  "lyrics": "[00:00.00] 作曲 : 阿鯤\n[00:05.00]纯音乐，请欣赏\n",
   "musicUrl": "https://music.163.com/song?id=1829144593",
   "neteaseId": 1829144593,
-  "coverUrl": "https://p1.music.126.net/Wlf1OJdJ_sOPzUld3Pkrlg==/109951169986821176.jpg"
+  "coverUrl": "https://p1.music.126.net/Wlf1OJdJ_sOPzUld3Pkrlg==/109951169986821176.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=1829144593"
 }

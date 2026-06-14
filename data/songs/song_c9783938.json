@@ -9,7 +9,9 @@
   "genres": [
     "流行"
   ],
-  "lyrics": "",
+  "lyrics": "作词 : 依赖\n作曲 : 依赖\n编曲 : 依赖\n纯音乐，请欣赏\n\n",
   "musicUrl": "https://music.163.com/song?id=3378223196",
-  "neteaseId": 3378223196
+  "neteaseId": 3378223196,
+  "coverUrl": "https://p1.music.126.net/_MbwV-12rsa5gpWFtnEcow==/109951173242178697.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=3378223196"
 }

@@ -9,8 +9,9 @@
   "genres": [
     "流行"
   ],
-  "lyrics": "",
+  "lyrics": "[00:00.00] 作词 : Infraction\n[00:01.00] 作曲 : Infraction\n[00:05.00]纯音乐，请欣赏\n",
   "musicUrl": "https://music.163.com/song?id=1497707149",
   "neteaseId": 1497707149,
-  "coverUrl": "https://p1.music.126.net/Ggci_ntCsNPsHQwUl7g_qA==/109951165492857987.jpg"
+  "coverUrl": "https://p1.music.126.net/Ggci_ntCsNPsHQwUl7g_qA==/109951165492857987.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=1497707149"
 }

@@ -9,7 +9,9 @@
   "genres": [
     "流行"
   ],
-  "lyrics": "",
+  "lyrics": "[00:00.00-1] 作词 : 王太利\n[00:00.00-1] 作曲 : 王太利\n",
   "musicUrl": "https://music.163.com/song?id=1456156128",
-  "neteaseId": 1456156128
+  "neteaseId": 1456156128,
+  "coverUrl": "https://p2.music.126.net/7raBvxbQUhaqHAtpUlmBtg==/109951165068111450.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=1456156128"
 }

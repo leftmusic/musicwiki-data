@@ -10,8 +10,9 @@
     "流行",
     "R&B"
   ],
-  "lyrics": "",
+  "lyrics": "[00:00.00] 作曲 : 小鱼儿\n[00:01.00] 编曲 : 小鱼儿\n[00:05.00]纯音乐，请欣赏\n",
   "musicUrl": "https://music.163.com/song?id=3329596007",
   "neteaseId": 3329596007,
-  "coverUrl": "https://p1.music.126.net/uYnxLazJmHF6B6UedD12Ug==/109951172345475005.jpg"
+  "coverUrl": "https://p1.music.126.net/uYnxLazJmHF6B6UedD12Ug==/109951172345475005.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=3329596007"
 }

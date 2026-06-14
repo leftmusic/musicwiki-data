@@ -10,8 +10,9 @@
   "genres": [
     "中国风"
   ],
-  "lyrics": "",
+  "lyrics": "[00:00.00] 作曲 : A-LNK\n[00:01.00] 编曲 : A-LNK\n[00:05.00]纯音乐，请欣赏\n",
   "musicUrl": "https://music.163.com/song?id=2711662907",
   "neteaseId": 2711662907,
-  "coverUrl": "https://p1.music.126.net/sP5L--4FT_EHpsW6hwSZxg==/109951172496999853.jpg"
+  "coverUrl": "https://p1.music.126.net/sP5L--4FT_EHpsW6hwSZxg==/109951172496999853.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=2711662907"
 }

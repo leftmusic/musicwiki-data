@@ -9,7 +9,9 @@
   "genres": [
     "流行"
   ],
-  "lyrics": "",
+  "lyrics": "[00:00.00-1] 作词 : 黄伟文\n[00:00.00-1] 作曲 : 柳重贤\n",
   "musicUrl": "https://music.163.com/song?id=2110262728",
-  "neteaseId": 2110262728
+  "neteaseId": 2110262728,
+  "coverUrl": "https://p2.music.126.net/G084Y9LIuhztAJyaAfKYdw==/109951169176564215.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=2110262728"
 }

@@ -10,7 +10,9 @@
     "电子",
     "流行"
   ],
-  "lyrics": "",
+  "lyrics": "[00:00.00] 编曲 : The xx\n[00:01.00] 制作人 : The xx\n[00:02.00] 作词 : 无\n[00:03.00] 作曲 : The xx\n[00:05.00]纯音乐，请欣赏\n",
   "musicUrl": "https://music.163.com/song?id=4341314",
-  "neteaseId": 4341314
+  "neteaseId": 4341314,
+  "coverUrl": "https://p2.music.126.net/Xik6a3wXoGPOLI1GNXGdFQ==/825733232504415.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=4341314"
 }

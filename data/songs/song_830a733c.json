@@ -9,7 +9,9 @@
   "genres": [
     "流行"
   ],
-  "lyrics": "",
+  "lyrics": "作词 : 无\n作曲 : 无\n编曲 : 无\n\n",
   "musicUrl": "https://music.163.com/song?id=2129581045",
-  "neteaseId": 2129581045
+  "neteaseId": 2129581045,
+  "coverUrl": "https://p1.music.126.net/hYfzQDVwkG7qGbZHl_MyWA==/109951169222691421.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=2129581045"
 }

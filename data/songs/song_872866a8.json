@@ -10,7 +10,9 @@
     "配乐",
     "原声"
   ],
-  "lyrics": "",
+  "lyrics": "[00:00.00-1] 作词 : 无\n[00:00.00-1] 作曲 : 阿鲲\n",
   "musicUrl": "https://music.163.com/song?id=1817701734",
-  "neteaseId": 1817701734
+  "neteaseId": 1817701734,
+  "coverUrl": "https://p1.music.126.net/kCJoM118N4k67XxAa-ZnUA==/109951170035119325.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=1817701734"
 }

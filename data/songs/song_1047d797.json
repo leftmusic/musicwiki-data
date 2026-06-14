@@ -9,7 +9,9 @@
   "genres": [
     "流行"
   ],
-  "lyrics": "",
+  "lyrics": "[00:05.00]纯音乐，请欣赏\n",
   "musicUrl": "https://music.163.com/song?id=2631714483",
-  "neteaseId": 2631714483
+  "neteaseId": 2631714483,
+  "coverUrl": "https://p1.music.126.net/ansCQt9Bomv8r3LEA1FAsw==/109951169007914991.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=2631714483"
 }

@@ -9,8 +9,9 @@
   "genres": [
     "古典"
   ],
-  "lyrics": "",
+  "lyrics": "[00:05.00]纯音乐，请欣赏\n",
   "musicUrl": "https://music.163.com/song?id=2061008674",
   "neteaseId": 2061008674,
-  "coverUrl": "https://p1.music.126.net/UAs_3XfKkf1WLibLFR1maw==/109951168712284685.jpg"
+  "coverUrl": "https://p1.music.126.net/UAs_3XfKkf1WLibLFR1maw==/109951168712284685.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=2061008674"
 }

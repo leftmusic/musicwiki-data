@@ -10,7 +10,9 @@
     "配乐",
     "原声"
   ],
-  "lyrics": "",
+  "lyrics": "[00:00.00] 作词 : 无\n[00:00.00] 作曲 : 阿鲲\n[00:00:00]此歌曲为没有填词的纯音乐，请您欣赏\n",
   "musicUrl": "https://music.163.com/song?id=1396541961",
-  "neteaseId": 1396541961
+  "neteaseId": 1396541961,
+  "coverUrl": "https://p2.music.126.net/it6mcGXe2TeeiBGsq1g7Kw==/109951169987207695.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=1396541961"
 }

@@ -9,8 +9,9 @@
   "genres": [
     "流行"
   ],
-  "lyrics": "",
+  "lyrics": "[00:00.00] 作词 : 无\n[00:01.00] 作曲 : 无\n[00:02.00] 编曲 : 无\n[00:05.00]纯音乐，请欣赏\n",
   "musicUrl": "https://music.163.com/song?id=3377797690",
   "neteaseId": 3377797690,
-  "coverUrl": "https://p1.music.126.net/TkmUwo7VhRAKQKJSNK-T8g==/109951173166056074.jpg"
+  "coverUrl": "https://p1.music.126.net/TkmUwo7VhRAKQKJSNK-T8g==/109951173166056074.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=3377797690"
 }

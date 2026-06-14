@@ -9,7 +9,8 @@
   "genres": [
     "流行"
   ],
-  "lyrics": "",
+  "lyrics": "\n此歌曲为没有填词的纯音乐，请您欣赏\n",
   "musicUrl": "https://music.163.com/song?id=1304695285",
-  "neteaseId": 1304695285
+  "neteaseId": 1304695285,
+  "coverUrl": "https://p2.music.126.net/jleuFr3HmLw781nsTaKkCA==/109951163511491894.jpg?param=250y250"
 }

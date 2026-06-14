@@ -9,7 +9,9 @@
   "genres": [
     "流行"
   ],
-  "lyrics": "",
+  "lyrics": "[00:00.00-1] 作词 : Wei Yuan Pan\n[00:00.00-1] 作曲 : Jia Li Chen\n",
   "musicUrl": "https://music.163.com/song?id=1347502505",
-  "neteaseId": 1347502505
+  "neteaseId": 1347502505,
+  "coverUrl": "https://p2.music.126.net/drlAEhBBlb8rwE_3uWP6yg==/109951163879756994.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=1347502505"
 }

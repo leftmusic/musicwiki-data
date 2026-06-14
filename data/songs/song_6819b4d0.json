@@ -9,8 +9,9 @@
   "genres": [
     "流行"
   ],
-  "lyrics": "",
+  "lyrics": "[00:00.00-1] 作曲 : Jay Chou\n",
   "musicUrl": "https://music.163.com/song?id=3368525206",
   "neteaseId": 3368525206,
-  "coverUrl": "https://p1.music.126.net/WJ88zGxkzyBuQ9OypvgbdA==/109951173023830096.jpg"
+  "coverUrl": "https://p1.music.126.net/WJ88zGxkzyBuQ9OypvgbdA==/109951173023830096.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=3368525206"
 }

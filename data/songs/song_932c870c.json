@@ -10,7 +10,9 @@
     "配乐",
     "原声"
   ],
-  "lyrics": "",
+  "lyrics": "[00:00.00] 作曲 : 阿鲲\n[00:05.00]纯音乐，请欣赏\n",
   "musicUrl": "https://music.163.com/song?id=1343455977",
-  "neteaseId": 1343455977
+  "neteaseId": 1343455977,
+  "coverUrl": "https://p1.music.126.net/0UObJ9w5oTmjG7U7P45BYg==/109951173248997815.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=1343455977"
 }

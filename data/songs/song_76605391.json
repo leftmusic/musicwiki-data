@@ -9,7 +9,9 @@
   "genres": [
     "流行"
   ],
-  "lyrics": "",
+  "lyrics": "[00:00.00-1] 作词 : 林振强\n[00:00.00-1] 作曲 : 伍思凯\n",
   "musicUrl": "https://music.163.com/song?id=1396414819",
-  "neteaseId": 1396414819
+  "neteaseId": 1396414819,
+  "coverUrl": "https://p2.music.126.net/j-eodv-5rjdfulIPE_7VMw==/109951169897726032.jpg?param=250y250",
+  "playUrl": "https://music.163.com/song/media/outer/url?id=1396414819"
 }
